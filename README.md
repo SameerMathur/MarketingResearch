@@ -1,2 +1,2 @@
 # MarketingResearch
-Marketing Research
+Marketing Research notes
