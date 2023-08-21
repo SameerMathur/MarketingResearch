@@ -1,0 +1,67 @@
+# Overview of Marketing Research
+
+*Aug 21, 2023.*
+
+## Definition
+
+The American Marketing Association (AMA) defines marketing research as follows:
+
+"Marketing research is the function that links the consumer, customer, and public to the marketer through information --- information used to identify and define marketing opportunities and problems; generate, refine, and evaluate marketing actions; monitor marketing performance; and improve understanding of marketing as a process. Marketing research specifies the information required to address these issues, designs the methods for collecting information, manages and implements the data collection process, analyzes the results, and communicates the findings and their implications." \[1\]
+
+# Classification of Marketing Research
+
+Qualitative research can also be classified into..
+
+## Differences between Problem Solving Research and Problem Identification Research
+
+Purpose: The primary purpose of problem identification research is to identify and define marketing problems and opportunities that need to be addressed. The main goal of problem-solving research is to develop and evaluate solutions to marketing problems.
+
+Nature of the problem: Problem identification research is used when the problem or opportunity is not clearly defined or understood. Problem-solving research is used when the problem or opportunity is clearly defined and requires a specific solution.
+
+Research methods: Problem identification research typically involves exploratory research methods, such as focus groups, interviews, and surveys, to gather qualitative data and insights about the problem or opportunity. Problem-solving research involves more rigorous and structured research methods, such as experiments and surveys, to test and validate potential solutions.
+
+Outcome: The outcome of problem identification research is a clear understanding of the problem or opportunity, which may lead to further research or the development of a problem-solving strategy. The outcome of problem-solving research is a specific solution or set of solutions that can be implemented to address the problem or opportunity.
+
+In summary, problem identification research is used to identify and define marketing problems and opportunities, while problem-solving research is used to develop and evaluate solutions to those problems and opportunities. \[2\]
+
+# Marketing Research Process
+
+The marketing research process is a six-step framework used by marketers to gather, analyze, and interpret data for decision-making. Here are the six steps:
+
+Defining the problem and research objectives: In this first step, the marketer must define the research problem and set specific research objectives to guide the research process. This involves identifying what information is needed, who the target audience is, and what questions need to be answered.
+
+Developing the research plan: The second step involves developing a research plan that outlines the research design, data collection methods, and sampling plan. The research plan should be based on the research objectives and should outline how data will be collected, analyzed, and reported.
+
+Collecting the data: The third step involves collecting data using the methods outlined in the research plan. Data can be collected through surveys, interviews, observations, focus groups, or other methods.
+
+Analyzing the data: Once the data is collected, it must be analyzed to identify patterns, trends, and insights. This involves using statistical analysis tools and techniques to identify correlations and relationships in the data.
+
+Presenting the findings: The fifth step involves presenting the research findings to stakeholders in a clear and concise manner. This can be done through reports, presentations, or other communication methods.
+
+Taking action: The final step involves using the research findings to make informed business decisions. The marketer must evaluate the findings and determine what actions to take based on the research results.
+
+Overall, the marketing research process is an iterative and ongoing process that involves continually refining research questions, revising research plans, and updating research findings as new data becomes available.
+
+# References
+
+\[1\]
+
+American Marketing Association. (2022). Marketing research. Retrieved from https://www.ama.org/marketing-research
+
+\[2\]
+
+Malhotra, N. K. (2021). Marketing research: An applied orientation. Pearson.
+
+Churchill, G. A., Jr., & Iacobucci, D. (2019). Marketing research: Methodological foundations. Cengage Learning.
+
+Hair, J. F., Celsi, M. W., Bush, R. P., & Ortinau, D. J. (2019). Essentials of marketing research. McGraw-Hill Education.
+
+Kotler, P., & Keller, K. L. (2016). Marketing management. Pearson.
+
+Aaker, D. A., Kumar, V., & Day, G. S. (2017). Marketing research. John Wiley & Sons.
+
+Churchill, G. A., Jr., & Peter, J. P. (1984). Research design effects on the reliability of rating scales: A meta-analysis. Journal of Marketing Research, 21(4), 360-375.
+
+Green, P. E., & Srinivasan, V. (1990). Conjoint analysis in marketing: New developments with implications for research and practice. Journal of Marketing, 54(4), 3-19.
+
+\[3\]

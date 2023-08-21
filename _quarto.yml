@@ -1,0 +1,66 @@
+
+### BEGIN yaml FOR BOOK'S WEBSITE (Aug 20, 2023) ###
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Marketing Research & Statistics with IBM SPSS"
+
+  margin-header: |
+    ![](MR_Book_Cover.png)  
+  page-footer:
+    background: "#004AAD"
+    center: 
+      - text: "Sameer Mathur"
+        href: https://www.qatar.cmu.edu/directory/sameer-mathur/
+  navbar:
+    background: "#004AAD"
+    pinned: false
+    search: false
+    right: 
+      - icon: globe
+        href: https://www.qatar.cmu.edu/directory/sameer-mathur/
+        text: "Sameer Mathur"
+        target: "_blank"  
+      - icon: github
+        href: https://github.com/SameerMathur/MarketingResearch
+        text: "Book's Github"
+        target: "_blank"
+
+  sidebar:
+    logo: "images/openscapes_hex.png"
+    background: "#FEC20C"
+    pinned: true
+    align: center
+    style: "docked"
+    search: true
+    collapse-level: 1
+    footer: ""
+    contents:
+      - href: index.qmd
+        text: Overview
+      - 01OverviewOfMR.qmd
+
+### END yaml FOR BOOK'S WEBSITE ###
+
+format:
+  html:
+    theme: united
+    toc: true # may need to comment this out to revert this back to the book
+    fig-width: 8
+    fig-height: 4
+    code-fold: false
+    prefer-html: true
+  pdf:
+    documentclass: scrreport
+    header-includes: |
+      \titlehead{
+        \begin{center}
+          \includegraphics[width=5in]{MR_Book_Cover.png}
+        \end{center}
+      }
+    prefer-html: true
+
+editor: visual
+

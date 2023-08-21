@@ -1,0 +1,41 @@
+### BEGIN yaml FOR BOOK'S PDF FILE (26 July 2023) ###
+project:
+  type: book
+prefer-html: true
+book:
+  title: "Data Analytics 101 -- Exploratory Data Analysis using R programming."
+  author: "Sameer Mathur, Aryeman Gupta Mathur"
+  date: "25 July 2023"
+  page-footer:
+    left: |
+      Data Analytics 101 -- Exploratory Data Analysis using R programming by Sameer Mathur, Aryeman G. Mathur
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+  cover-image: BookCover.png
+  favicon: BookCover.png
+  chapters:
+    - index.qmd
+    - 01GettingStarted.qmd
+    - 02RPackages.qmd
+    - 03DataStructures.qmd
+    - 04ReadingData.qmd
+    - 05ExploringDataframes.qmd
+    - 06LiveCase01.qmd
+    - 07ExploringTibbles.qmd
+    - 08SummarzingCategoricalData.qmd
+    - 09LiveCase02.qmd
+    - 10SummarizingContinuousData.qmd
+    - 11SummarizingContinuousData.qmd
+    - 12SummarizingContinuousData.qmd
+format:
+  pdf:
+    documentclass: scrreport
+    header-includes: |
+      \titlehead{
+        \begin{center}
+          \includegraphics[width=5in]{BookCover.png}
+        \end{center}
+      }
+
+editor: visual
+
