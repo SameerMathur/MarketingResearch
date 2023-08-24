@@ -1,36 +1,45 @@
 # Research Design
 
-*Aug 24, 2023*
+*Aug 24, 2023.*
 
-1.  Marketing research design is the process of developing **a plan or framework for conducting market research** to address specific research objectives.
+-   Marketing research design is the process of developing **a plan or framework for conducting market research** to address specific research objectives.
 
 ## Goals
 
--   The goal of research design is to develop a plan or strategy for conducting research that will help answer a research question or address a research problem in a rigorous and systematic manner. The research design specifies the procedures, methods, and techniques that will be used to collect and analyze data, as well as the criteria for evaluating the results.
+1.  The core objective of research design is to formulate **a plan or strategy for conducting research** in a comprehensive and systematic way. This design outlines the s**procedures, methods, and techniques** necessary for data gathering and interpretation, and it provides the standards for assessing the outcomes.
 
--   The dual goal of research design is to ensure that the research is reliable, valid, and generalizable to the target population. A well-designed research study can provide valuable insights and information that can be used to inform decision-making in a variety of fields, including marketing, psychology, sociology, and medicine.  \[1\]
+-   The twofold purpose of research design is to confirm that the study is **reliable, valid, and generalizable** to the target population. A thoughtfully crafted research project offers crucial knowledge and perspectives beneficial for guiding decisions across diverse disciplines like marketing, psychology, sociology, and healthcare. \[1\]
 
 ## Characteristics
 
-A good research design is essential for producing accurate and reliable results in a research study. Here are some characteristics of a good research design:
+**Characteristics of an Effective Research Design:**
 
--   Clearly defined research question: A good research design starts with a well-defined research question or hypothesis that is focused and specific.
+1. **Clearly Defined Research Question:** The foundation of a strong research design lies in a concise and specific question or hypothesis.
+  
+2. **Appropriate Research Method:** The design should employ a suitable method, be it surveys, experiments, case studies, or observational studies, based on the research question and aims.
 
--   Appropriate research method: A good research design uses an appropriate research method that is suitable for the research question and objectives, such as surveys, experiments, case studies, or observational studies.
+3. **Appropriate Sampling Method:** The chosen sampling technique should aptly represent the target audience and minimize biases. This could range from random sampling, stratified sampling, to convenience sampling.
 
--   Appropriate sampling method: A good research design uses an appropriate sampling method that is representative of the target population and reduces bias, such as random sampling, stratified sampling, or convenience sampling.
+4. **Valid and Reliable Data Collection:** Tools like questionnaires, interviews, or observation protocols should be both valid and reliable, aligning with the research method and participants.
 
--   Valid and reliable data collection tools: A good research design uses valid and reliable data collection tools, such as questionnaires, interviews, or observation protocols, that are appropriate for the research method and sample.
+5. **Ethical Considerations:** The design should prioritize ethics, ensuring informed consent, participant privacy, confidentiality, and the welfare of the participants.
 
--   Ethical considerations: A good research design takes into account ethical considerations, such as obtaining informed consent, protecting participant privacy and confidentiality, and avoiding harm or discomfort to participants.
+6. **Adequate Sample Size:** The sample size should be sufficient, ensuring statistical significance and the capacity to identify impactful effects or variances.
 
--   Adequate sample size: A good research design uses an adequate sample size that is statistically significant and provides enough power to detect meaningful effects or differences.
+7. **Data Analysis Plan:** The design should encompass a fitting data analysis strategy, whether it's descriptive statistics, regression analysis, or content analysis, tailored to the research method and the gathered data.
 
--   Data analysis plan: A good research design includes a data analysis plan that is appropriate for the research method and data collected, such as descriptive statistics, regression analysis, or content analysis.
-
--   Timeliness and feasibility: A good research design is feasible and can be completed within the available time frame and resources, while still producing meaningful and valid results.
+8. **Timeliness and Feasibility:** The design should be realistic, allowing for the research to be conducted within the given resources and timeframe, all while yielding substantial and credible outcomes.
 
 An effective marketing research design helps companies to **make informed decisions**, develop **effective marketing strategies**, and **stay competitive** in the marketplace. \[2\]
+
+
+
+
+
+
+
+
+
 
 ## Classifications of Research Design
 
@@ -84,63 +93,109 @@ Research design can also be classified based on the data analysis method:
 
 In summary, research design can be classified based on various criteria, such as purpose, time frame, data collection method, and data analysis method. The choice of research design depends on the research question, the nature of the research problem, and the goals of the research. \[3\]
 
-## Classifications of Research Design based on purpose
 
-### Exploratory Research Design
 
-1.  Exploratory research design is a type of research design used to explore a research problem when there is **limited or no prior knowledge** or understanding of it.
 
-2.  **Goal**: The goal of exploratory research is to **gain insights, generate hypotheses**, and create a **deeper understanding** of the research problem.
 
-3.  **Use**: Exploratory research is often used **when the research problem is ambiguous, complex, or poorly understood**, and a researcher wants to explore different ideas, perspectives, and potential solutions.
+## **Classifications of Research Design Based on Purpose**
 
-4.  It is often the **first step** in the research process and is useful in shaping and refining research questions and hypotheses.
 
-5.  **Methods**: Exploratory research can be conducted using various methods, such as **literature reviews, case studies, observations, interviews, focus groups, or surveys**. The choice of the method depends on the nature of the research problem and the goals of the research.
+### **1. Exploratory Research Design**
 
-6.  Exploratory research is generally characterized by its **flexibility, creativity**, and **adaptability**.
+- **Nature**: Used when there's **limited or no prior knowledge** about the research problem.
 
-7.  It allows the researcher to **collect both qualitative and quantitative data** and use multiple sources of information to develop a deeper understanding of the research problem.
+- **Goal**: To **gain insights, generate hypotheses**, and cultivate a **deeper understanding** of the research problem.
 
-8.  The findings from exploratory research are often **not conclusive**, and their main goal is to **generate new insights and ideas** that can be used in subsequent research or decision-making.
+- **Usage**: Employed **when the research issue is ambiguous, intricate, or not well-defined** to explore varied perspectives, ideas, and potential remedies.
 
-    Overall, exploratory research design is a valuable approach to gain a deeper understanding of a research problem, identify potential research questions and hypotheses, and generate new insights and ideas that can inform future research and decision-making. \[4\]
+- **Position**: Often the **initial phase** in the research journey, helping in shaping and refining questions and hypotheses.
 
-### Conclusive Research Design
+- **Methods**: Incorporates multiple methods like **literature reviews, case studies, observations, interviews, focus groups, or surveys** based on the research problem and objectives.
 
-1.  Conclusive research design is a type of research design that is used to **provide a final conclusion** or **answer to a research question** or problem.
+- **Characteristics**: Known for its **flexibility, creativity**, and **adaptability**.
 
-2.  The goal of conclusive research is to test a hypothesis or answer a research question with a high degree of confidence.
+- **Data Type**: Enables the researcher to gather **both qualitative and quantitative data**, leveraging varied information sources.
 
-3.  Conclusive research is often used when a researcher has a clear understanding of the research problem and wants to test a hypothesis or answer a specific research question.
+- **Findings**: Results are generally **not definitive**; the primary aim is to **unearth new insights and concepts** for future research or decision-making.
 
-4.  It is typically quantitative in nature and involves the collection of structured data using methods such as surveys, experiments, or observational studies.
+### **2. Conclusive Research Design**
 
-5.  Conclusive research design involves a more structured approach to research than exploratory research, and it typically requires a larger sample size to ensure that the findings are representative of the population being studied.
+- **Nature**: Seeks to **offer a final conclusion** or resolve a specific research question/problem.
 
-6.  The research design and methods used in conclusive research are carefully planned to ensure that the results are reliable, valid, and generalizable to the population.
+- **Goal**: To validate a hypothesis or provide a resolution to a research question with high certainty.
 
-7.  Conclusive research typically involves statistical analysis of the data collected, and the results are used to draw conclusions about the research question or hypothesis being tested.
+- **Usage**: Used when a clear comprehension of the research problem exists and the aim is to test a hypothesis or solve a particular research question.
 
-8.  The findings of conclusive research are often used to make informed business decisions, develop effective marketing strategies, or inform public policy.
+- **Nature of Data**: Primarily **quantitative**, collecting organized data through surveys, experiments, or observational studies.
 
-9.  Overall, conclusive research design is a valuable approach to provide a final conclusion or answer to a research question or problem. It is typically quantitative in nature, involves a more structured approach to research, and requires careful planning and analysis to ensure that the results are reliable, valid, and generalizable to the population. \[5\]
+- **Approach**: More regimented than exploratory research, often requiring a **larger sample size** to ensure representative findings.
 
-### Differences between Exploratory and Conclusive research designs
+- **Design Rigor**: Ensures the results are **reliable, valid,** and **generalizable** to the entire population.
 
-1.  **Purpose**: Exploratory research is conducted when the researcher has limited or no knowledge of the topic under study and aims to explore it further. On the other hand, conclusive research is conducted when the researcher has a clear understanding of the research problem and aims to provide a final conclusion or answer to the research question.
+- **Analysis**: Typically involves **statistical data analysis**, deriving conclusions about the tested hypothesis or research question.
 
-2.  **Methodology**: Exploratory research is flexible in terms of methodology and allows the researcher to use a variety of methods, such as literature reviews, interviews, focus groups, or surveys. The goal is to gather as much information as possible to develop a hypothesis or research question. Conclusive research, on the other hand, is more structured and typically involves quantitative research methods, such as surveys, experiments, or observational studies.
+- **Application**: Findings are frequently utilized for making informed decisions, devising efficient marketing tactics, or influencing public policy.
 
-3.  **Sample size**: Exploratory research often involves a **smaller** sample size, and the findings are not meant to be generalizable. Conclusive research, on the other hand, involves a **larger** sample size and the results are intended to be **generalizable** to the population.
+### **3. Differences between Exploratory and Conclusive Research Designs**
 
-4.  **Analysis**: Exploratory research aims to generate new insights and ideas, and the analysis is often qualitative or descriptive. Conclusive research, on the other hand, is focused on testing a hypothesis or research question, and the analysis is often quantitative and statistical.
+- **Purpose**: Exploratory research delves into topics with **minimal or unknown information** to uncover more, while conclusive research, having a clear grasp on the issue, seeks **definite answers or conclusions**.
 
-In summary, exploratory research is used to gain insights and develop hypotheses about a research problem, while conclusive research is used to provide a final answer to the research question. Exploratory research is flexible in terms of methodology and analysis, while conclusive research is more structured and quantitative in nature. \[6\]
+- **Methodology**: Exploratory research is versatile, using varied methods like literature reviews or interviews to gather diverse information. In contrast, conclusive research is structured, primarily using **quantitative methods**.
+
+- **Sample Size**: Exploratory research often has a **smaller sample size** without the intent of generalization, whereas conclusive research requires a **larger sample size** aiming for population-level generalization.
+
+- **Analysis**: Exploratory research aims at unfolding new insights through qualitative or descriptive analysis. Conclusive research focuses on hypothesis testing using **quantitative and statistical analysis**.
+
+To sum it up, while exploratory research seeks to discover and form hypotheses, conclusive research aspires to provide definite answers. The former is adaptive in method and analysis, while the latter is methodical and primarily quantitative. \[6\]
+
+
+
+
+### McDonald's -- Exploratory Research Design
+
+Exploratory Research Design is about delving deep into unknown territories to uncover clues, understand patterns, and generate hypotheses for further investigation. In essence, it serves as a foundation for more conclusive, often quantitative, research that follows. Let's illustrate this using McDonald’s, the iconic fast-food giant.
+
+**Scenario**: Imagine that McDonald's observed a decline in their sales in a particular region. They're not sure about the underlying causes, and the current data on hand does not offer clear answers. In this case, instead of diving into a detailed quantitative study immediately, McDonald's might opt for an exploratory research design to understand the potential reasons behind the sales slump.
+
+1. **Interviews with Customers**: McDonald's could organize one-on-one interviews or small focus groups with customers in that region. These dialogues could reveal that perhaps customers are more health-conscious, finding McDonald's offerings not aligning with their dietary preferences.
+
+2. **Observations**: They might deploy observers to selected outlets. These observers might notice that local competition has introduced innovative menu items that are drawing customers away or perhaps the service speed at McDonald's outlets has declined.
+
+3. **Literature Review**: An exploration of recent articles, blogs, and reviews might highlight that there's a trending dietary pattern in the region that McDonald’s current menu does not cater to.
+
+4. **Pilot Surveys**: McDonald’s could roll out short surveys, perhaps digitally or in select outlets, to gauge customer preferences and pain points. They might find out that customers desire a new category of products, like plant-based burgers, which McDonald's has not yet introduced in that region.
+
+**Discussion**
+
+* The value of this exploratory research for McDonald’s lies in its flexibility and depth. 
+
+* It provides a qualitative understanding of the problem, offering rich insights that can’t be captured through mere numbers. 
+
+* Once these initial insights are garnered, McDonald's can then invest in a large-scale, quantitative research project to test the hypotheses formulated from the exploratory phase.
+
+* Critically speaking, it's essential to recognize its limitations. The findings from such research are not definitive. They are **subjective**, based on a smaller sample size, and might not always be generalizable to the broader population. However, in situations of ambiguity, like sales decline of McDonald's in a specific region, the exploratory research design proves invaluable in painting a clearer picture, setting the stage for more detailed investigations.
+
+
+
+
+
+
+
+
+
 
 ## Sub-Classification of Conclusive Research Design
 
-Conclusive research design can be classified into two main types: descriptive research and causal research.
+Conclusive research design can be classified into two main types: 
+
+* **Descriptive research**
+
+* **Causal research**
+
+
+
+
+
 
 ### Descriptive research:
 
@@ -156,7 +211,7 @@ Conclusive research design can be classified into two main types: descriptive re
 
 Descriptive research can be sub-classified into two main types based on the time frame of the study: cross-sectional research design and longitudinal research design.
 
-### Cross-sectional research design
+* **Cross-sectional research design**
 
 1.  Cross-sectional research design is a type of descriptive research design that involves collecting data from a sample of individuals at a **single point in time**.
 
@@ -166,7 +221,7 @@ Descriptive research can be sub-classified into two main types based on the time
 
 4.  Common methods used in cross-sectional research design include surveys, questionnaires, and observational studies. \[7\]
 
-### Longitudinal research design
+* **Longitudinal research design**
 
 1.  Longitudinal research design is a type of descriptive research design that involves **collecting data** from a sample of individuals **over an extended period of time**.
 
@@ -218,6 +273,34 @@ Longitudinal and cross-sectional research designs have different advantages and 
 
 3.  **Cannot control for extraneous variables**: Cross-sectional research design cannot control for extraneous variables that may affect the outcome, which limits its usefulness for causal inference. \[9\]
 
+
+
+
+
+### **McDonald's -- Descriptive Research Illustration**
+
+Descriptive research, nestled within the broader umbrella of conclusive research, seeks to depict and explain the characteristics of variables within a dataset, usually without influencing them. It's akin to capturing a snapshot at a given time and using that image to discern patterns, behaviors, and attributes.
+
+Let's explore this concept using the McDonald's brand for clarity.
+
+**Scenario**: Suppose McDonald's wants to comprehend the breakfast consumption habits of its customers across different age groups in a particular city.
+
+1. **Surveys and Questionnaires**: McDonald's might deploy structured surveys across various outlets during breakfast hours. This tool could probe into customers' favorite breakfast items, the frequency of their breakfast visits in a week, and their preferred time for breakfast. Through these surveys, McDonald's could identify that, for instance, millennials predominantly prefer the Egg McMuffin, while the older age group might lean towards the Hotcakes. 
+
+2. **Observational Studies**: Researchers might be stationed at select McDonald's outlets to note the flow of customers, specifically observing which age groups are more likely to consume breakfast at McDonald's. Observationally, it might be discerned that the outlets are busiest with younger clientele between 7 am to 8 am, perhaps before they head to work or college.
+
+3. **Usage of Existing Records**: McDonald's could mine its sales data, examining which breakfast items sell the most during specific hours and to specific customer demographics, if that data is available. From this, they might discern that sales of coffee surge post 8:30 am, possibly indicating a second wave of customers seeking a caffeine fix.
+
+Critically evaluating, while descriptive research provides a rich depiction of the current state, it's confined to the "what" and not the "why." For McDonald's, while they'll discern what breakfast items are popular and when, they won't necessarily grasp why those particular items are preferred or why some age groups visit at certain times. This distinction is vital; for deeper comprehension, they'd need to delve into causal or experimental research.
+
+Moreover, the accuracy of descriptive research heavily relies on the tools used. For instance, surveys might suffer from biases based on how questions are framed or the honesty of respondents. 
+
+
+
+
+
+
+
 ### Causal research:
 
 1.  Causal research is used to establish **cause-and-effect relationships** between variables.
@@ -251,6 +334,29 @@ Causal research typically involves the following steps:
 3.  **Prescriptive Research:** This type of research is used to identify the best course of action to achieve a desired outcome. Prescriptive research typically involves analyzing data from past events to identify the most effective interventions or treatments for a particular problem. Prescriptive research is often used in fields such as medicine, education, and public policy to identify the most effective treatments for diseases, teaching methods, and policy interventions, respectively.
 
 Causal research can be conducted using a variety of research methods, including experiments, quasi-experiments, and longitudinal studies. In experiments, researchers manipulate one or more variables to determine their effect on another variable, while controlling for extraneous variables that may affect the results. Quasi-experiments involve manipulating a variable that cannot be randomly assigned, such as gender or age. Longitudinal studies involve collecting data over a period of time to determine whether changes in one variable are related to changes in another variable. \[10\]
+
+
+
+
+
+
+
+
+### **McDonald's -- Causal Research Illustration**
+
+Causal research, a cornerstone of conclusive research, is concerned with understanding cause-and-effect relationships between variables. It tries to discern not just if two variables are related, but if one actively causes changes in the other.
+
+**Scenario**: McDonald’s notices a surge in sales every time they launch a new advertisement campaign for their signature burger, the Big Mac. They aim to determine whether the new advertisements directly cause the spike in sales.
+
+1. **Controlled Experiments**: McDonald's could conduct an experiment where two similar regions (or demographically matched groups) are selected. One region (the experimental group) is exposed to the new advertisement campaign, while the other region (the control group) is not. After a designated period, if the region exposed to the ads shows a significant surge in Big Mac sales compared to the control region, it could indicate a causal relationship between the advertisement and sales.
+
+2. **Field Trials**: Instead of a controlled environment, McDonald's could run the advertisement in a particular city and observe the sales patterns, comparing it with historical data or with cities where the advertisement hasn't been broadcasted. 
+
+3. **Longitudinal Studies**: McDonald’s might also track sales over an extended period, noting every time a new advertisement campaign is launched and mapping this against sales volume. A recurring pattern of sales spikes after ad campaigns might further evidence the causal link.
+
+
+
+
 
 \newpage
 
