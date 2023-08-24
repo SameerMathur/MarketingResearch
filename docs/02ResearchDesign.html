@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.433">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Marketing Research &amp; Statistics with IBM SPSS – researchdesign</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Marketing Research &amp; Statistics with IBM SPSS</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.qatar.cmu.edu/directory/sameer-mathur/" rel="" target="_blank"><i class="bi bi-globe" role="img">
+</i> 
+ <span class="menu-text">Sameer Mathur</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://github.com/SameerMathur/MarketingResearch" rel="" target="_blank"><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text">Book’s Github</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./02ResearchDesign.html">Research Design</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./images/openscapes_hex.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Overview</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./01OverviewOfMR.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Introduction to Marketing Research</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./02ResearchDesign.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Research Design</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+<p><img src="MR_Book_Cover.png" class="img-fluid"></p>
+</div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#research-design" id="toc-research-design" class="nav-link active" data-scroll-target="#research-design">Research Design</a>
+  <ul class="collapse">
+  <li><a href="#goals" id="toc-goals" class="nav-link" data-scroll-target="#goals">Goals</a></li>
+  <li><a href="#characteristics" id="toc-characteristics" class="nav-link" data-scroll-target="#characteristics">Characteristics</a></li>
+  <li><a href="#classifications-of-research-design" id="toc-classifications-of-research-design" class="nav-link" data-scroll-target="#classifications-of-research-design">Classifications of Research Design</a>
+  <ul class="collapse">
+  <li><a href="#based-on-purpose" id="toc-based-on-purpose" class="nav-link" data-scroll-target="#based-on-purpose">Based on purpose:</a></li>
+  <li><a href="#based-on-time-frame" id="toc-based-on-time-frame" class="nav-link" data-scroll-target="#based-on-time-frame">Based on time frame:</a></li>
+  <li><a href="#based-on-data-collection-method" id="toc-based-on-data-collection-method" class="nav-link" data-scroll-target="#based-on-data-collection-method">Based on data collection method:</a></li>
+  <li><a href="#based-on-data-analysis-method" id="toc-based-on-data-analysis-method" class="nav-link" data-scroll-target="#based-on-data-analysis-method">Based on data analysis method:</a></li>
+  </ul></li>
+  <li><a href="#classifications-of-research-design-based-on-purpose" id="toc-classifications-of-research-design-based-on-purpose" class="nav-link" data-scroll-target="#classifications-of-research-design-based-on-purpose">Classifications of Research Design based on purpose</a>
+  <ul class="collapse">
+  <li><a href="#exploratory-research-design" id="toc-exploratory-research-design" class="nav-link" data-scroll-target="#exploratory-research-design">Exploratory Research Design</a></li>
+  <li><a href="#conclusive-research-design" id="toc-conclusive-research-design" class="nav-link" data-scroll-target="#conclusive-research-design">Conclusive Research Design</a></li>
+  <li><a href="#differences-between-exploratory-and-conclusive-research-designs" id="toc-differences-between-exploratory-and-conclusive-research-designs" class="nav-link" data-scroll-target="#differences-between-exploratory-and-conclusive-research-designs">Differences between Exploratory and Conclusive research designs</a></li>
+  </ul></li>
+  <li><a href="#sub-classification-of-conclusive-research-design" id="toc-sub-classification-of-conclusive-research-design" class="nav-link" data-scroll-target="#sub-classification-of-conclusive-research-design">Sub-Classification of Conclusive Research Design</a>
+  <ul class="collapse">
+  <li><a href="#descriptive-research" id="toc-descriptive-research" class="nav-link" data-scroll-target="#descriptive-research">Descriptive research:</a></li>
+  <li><a href="#sub-sub-classification-of-descriptive-research" id="toc-sub-sub-classification-of-descriptive-research" class="nav-link" data-scroll-target="#sub-sub-classification-of-descriptive-research">Sub-Sub-Classification of Descriptive research</a></li>
+  <li><a href="#cross-sectional-research-design" id="toc-cross-sectional-research-design" class="nav-link" data-scroll-target="#cross-sectional-research-design">Cross-sectional research design</a></li>
+  <li><a href="#longitudinal-research-design" id="toc-longitudinal-research-design" class="nav-link" data-scroll-target="#longitudinal-research-design">Longitudinal research design</a></li>
+  <li><a href="#advantages-and-disadvantages-of-longitudinal-versus-cross-sectional-research-design" id="toc-advantages-and-disadvantages-of-longitudinal-versus-cross-sectional-research-design" class="nav-link" data-scroll-target="#advantages-and-disadvantages-of-longitudinal-versus-cross-sectional-research-design">Advantages and Disadvantages of Longitudinal versus Cross-Sectional research design</a></li>
+  <li><a href="#causal-research" id="toc-causal-research" class="nav-link" data-scroll-target="#causal-research">Causal research:</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="02ResearchDesign.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+
+<section id="research-design" class="level1">
+<h1>Research Design</h1>
+<p><em>Aug 24, 2023</em></p>
+<ol type="1">
+<li>Marketing research design is the process of developing <strong>a plan or framework for conducting market research</strong> to address specific research objectives.</li>
+</ol>
+<section id="goals" class="level2">
+<h2 class="anchored" data-anchor-id="goals">Goals</h2>
+<ul>
+<li><p>The goal of research design is to develop a plan or strategy for conducting research that will help answer a research question or address a research problem in a rigorous and systematic manner. The research design specifies the procedures, methods, and techniques that will be used to collect and analyze data, as well as the criteria for evaluating the results.</p></li>
+<li><p>The dual goal of research design is to ensure that the research is reliable, valid, and generalizable to the target population. A well-designed research study can provide valuable insights and information that can be used to inform decision-making in a variety of fields, including marketing, psychology, sociology, and medicine. [1]</p></li>
+</ul>
+</section>
+<section id="characteristics" class="level2">
+<h2 class="anchored" data-anchor-id="characteristics">Characteristics</h2>
+<p>A good research design is essential for producing accurate and reliable results in a research study. Here are some characteristics of a good research design:</p>
+<ul>
+<li><p>Clearly defined research question: A good research design starts with a well-defined research question or hypothesis that is focused and specific.</p></li>
+<li><p>Appropriate research method: A good research design uses an appropriate research method that is suitable for the research question and objectives, such as surveys, experiments, case studies, or observational studies.</p></li>
+<li><p>Appropriate sampling method: A good research design uses an appropriate sampling method that is representative of the target population and reduces bias, such as random sampling, stratified sampling, or convenience sampling.</p></li>
+<li><p>Valid and reliable data collection tools: A good research design uses valid and reliable data collection tools, such as questionnaires, interviews, or observation protocols, that are appropriate for the research method and sample.</p></li>
+<li><p>Ethical considerations: A good research design takes into account ethical considerations, such as obtaining informed consent, protecting participant privacy and confidentiality, and avoiding harm or discomfort to participants.</p></li>
+<li><p>Adequate sample size: A good research design uses an adequate sample size that is statistically significant and provides enough power to detect meaningful effects or differences.</p></li>
+<li><p>Data analysis plan: A good research design includes a data analysis plan that is appropriate for the research method and data collected, such as descriptive statistics, regression analysis, or content analysis.</p></li>
+<li><p>Timeliness and feasibility: A good research design is feasible and can be completed within the available time frame and resources, while still producing meaningful and valid results.</p></li>
+</ul>
+<p>An effective marketing research design helps companies to <strong>make informed decisions</strong>, develop <strong>effective marketing strategies</strong>, and <strong>stay competitive</strong> in the marketplace. [2]</p>
+</section>
+<section id="classifications-of-research-design" class="level2">
+<h2 class="anchored" data-anchor-id="classifications-of-research-design">Classifications of Research Design</h2>
+<p>Research design can be classified into several types based on various criteria. Here are some common ways to classify research design:</p>
+<section id="based-on-purpose" class="level3">
+<h3 class="anchored" data-anchor-id="based-on-purpose">Based on purpose:</h3>
+<p>Research design can be classified into three main types based on their purpose:</p>
+<ol type="1">
+<li><p><strong>Exploratory research design</strong>: used to <strong>explore a research problem when there is limited or no prior knowledge</strong> or understanding of it.</p></li>
+<li><p><strong>Descriptive research design</strong>: used to describe or <strong>summarize characteristics</strong> of a population or phenomenon, such as market trends, customer behavior, or demographic data.</p></li>
+<li><p><strong>Causal research design</strong>: used to establish <strong>cause-and-effect relationships</strong> between variables.</p></li>
+</ol>
+</section>
+<section id="based-on-time-frame" class="level3">
+<h3 class="anchored" data-anchor-id="based-on-time-frame">Based on time frame:</h3>
+<p>Research design can also be classified based on the time frame of the study:</p>
+<ol type="1">
+<li><strong>Cross-sectional</strong> research design:</li>
+</ol>
+<ul>
+<li>Data is collected at a <strong>single point in time</strong>.</li>
+</ul>
+<ol start="2" type="1">
+<li><strong>Longitudinal</strong> research design:</li>
+</ol>
+<ul>
+<li>Data is collected over an extended period of time, and the same sample is followed up at <strong>multiple time points</strong>.</li>
+</ul>
+</section>
+<section id="based-on-data-collection-method" class="level3">
+<h3 class="anchored" data-anchor-id="based-on-data-collection-method">Based on data collection method:</h3>
+<p>Research design can also be classified based on the data collection method:</p>
+<ol type="1">
+<li><strong>Quantitative</strong> research design:</li>
+</ol>
+<ul>
+<li>used to collect <strong>structured data</strong> using methods such as surveys, experiments, or observational studies.</li>
+</ul>
+<ol start="2" type="1">
+<li><strong>Qualitative</strong> research design:</li>
+</ol>
+<ul>
+<li>used to collect <strong>non-structured or semi-structured data</strong> using methods such as interviews, focus groups, or observations.</li>
+</ul>
+</section>
+<section id="based-on-data-analysis-method" class="level3">
+<h3 class="anchored" data-anchor-id="based-on-data-analysis-method">Based on data analysis method:</h3>
+<p>Research design can also be classified based on the data analysis method:</p>
+<ol type="1">
+<li><strong>Deductive</strong> research design:</li>
+</ol>
+<ul>
+<li>used to test a specific hypothesis or theory.</li>
+</ul>
+<ol start="2" type="1">
+<li><strong>Inductive</strong> research design:</li>
+</ol>
+<ul>
+<li>used to generate new theories or hypotheses from the data collected.</li>
+</ul>
+<p>In summary, research design can be classified based on various criteria, such as purpose, time frame, data collection method, and data analysis method. The choice of research design depends on the research question, the nature of the research problem, and the goals of the research. [3]</p>
+</section>
+</section>
+<section id="classifications-of-research-design-based-on-purpose" class="level2">
+<h2 class="anchored" data-anchor-id="classifications-of-research-design-based-on-purpose">Classifications of Research Design based on purpose</h2>
+<section id="exploratory-research-design" class="level3">
+<h3 class="anchored" data-anchor-id="exploratory-research-design">Exploratory Research Design</h3>
+<ol type="1">
+<li><p>Exploratory research design is a type of research design used to explore a research problem when there is <strong>limited or no prior knowledge</strong> or understanding of it.</p></li>
+<li><p><strong>Goal</strong>: The goal of exploratory research is to <strong>gain insights, generate hypotheses</strong>, and create a <strong>deeper understanding</strong> of the research problem.</p></li>
+<li><p><strong>Use</strong>: Exploratory research is often used <strong>when the research problem is ambiguous, complex, or poorly understood</strong>, and a researcher wants to explore different ideas, perspectives, and potential solutions.</p></li>
+<li><p>It is often the <strong>first step</strong> in the research process and is useful in shaping and refining research questions and hypotheses.</p></li>
+<li><p><strong>Methods</strong>: Exploratory research can be conducted using various methods, such as <strong>literature reviews, case studies, observations, interviews, focus groups, or surveys</strong>. The choice of the method depends on the nature of the research problem and the goals of the research.</p></li>
+<li><p>Exploratory research is generally characterized by its <strong>flexibility, creativity</strong>, and <strong>adaptability</strong>.</p></li>
+<li><p>It allows the researcher to <strong>collect both qualitative and quantitative data</strong> and use multiple sources of information to develop a deeper understanding of the research problem.</p></li>
+<li><p>The findings from exploratory research are often <strong>not conclusive</strong>, and their main goal is to <strong>generate new insights and ideas</strong> that can be used in subsequent research or decision-making.</p>
+<p>Overall, exploratory research design is a valuable approach to gain a deeper understanding of a research problem, identify potential research questions and hypotheses, and generate new insights and ideas that can inform future research and decision-making. [4]</p></li>
+</ol>
+</section>
+<section id="conclusive-research-design" class="level3">
+<h3 class="anchored" data-anchor-id="conclusive-research-design">Conclusive Research Design</h3>
+<ol type="1">
+<li><p>Conclusive research design is a type of research design that is used to <strong>provide a final conclusion</strong> or <strong>answer to a research question</strong> or problem.</p></li>
+<li><p>The goal of conclusive research is to test a hypothesis or answer a research question with a high degree of confidence.</p></li>
+<li><p>Conclusive research is often used when a researcher has a clear understanding of the research problem and wants to test a hypothesis or answer a specific research question.</p></li>
+<li><p>It is typically quantitative in nature and involves the collection of structured data using methods such as surveys, experiments, or observational studies.</p></li>
+<li><p>Conclusive research design involves a more structured approach to research than exploratory research, and it typically requires a larger sample size to ensure that the findings are representative of the population being studied.</p></li>
+<li><p>The research design and methods used in conclusive research are carefully planned to ensure that the results are reliable, valid, and generalizable to the population.</p></li>
+<li><p>Conclusive research typically involves statistical analysis of the data collected, and the results are used to draw conclusions about the research question or hypothesis being tested.</p></li>
+<li><p>The findings of conclusive research are often used to make informed business decisions, develop effective marketing strategies, or inform public policy.</p></li>
+<li><p>Overall, conclusive research design is a valuable approach to provide a final conclusion or answer to a research question or problem. It is typically quantitative in nature, involves a more structured approach to research, and requires careful planning and analysis to ensure that the results are reliable, valid, and generalizable to the population. [5]</p></li>
+</ol>
+</section>
+<section id="differences-between-exploratory-and-conclusive-research-designs" class="level3">
+<h3 class="anchored" data-anchor-id="differences-between-exploratory-and-conclusive-research-designs">Differences between Exploratory and Conclusive research designs</h3>
+<ol type="1">
+<li><p><strong>Purpose</strong>: Exploratory research is conducted when the researcher has limited or no knowledge of the topic under study and aims to explore it further. On the other hand, conclusive research is conducted when the researcher has a clear understanding of the research problem and aims to provide a final conclusion or answer to the research question.</p></li>
+<li><p><strong>Methodology</strong>: Exploratory research is flexible in terms of methodology and allows the researcher to use a variety of methods, such as literature reviews, interviews, focus groups, or surveys. The goal is to gather as much information as possible to develop a hypothesis or research question. Conclusive research, on the other hand, is more structured and typically involves quantitative research methods, such as surveys, experiments, or observational studies.</p></li>
+<li><p><strong>Sample size</strong>: Exploratory research often involves a <strong>smaller</strong> sample size, and the findings are not meant to be generalizable. Conclusive research, on the other hand, involves a <strong>larger</strong> sample size and the results are intended to be <strong>generalizable</strong> to the population.</p></li>
+<li><p><strong>Analysis</strong>: Exploratory research aims to generate new insights and ideas, and the analysis is often qualitative or descriptive. Conclusive research, on the other hand, is focused on testing a hypothesis or research question, and the analysis is often quantitative and statistical.</p></li>
+</ol>
+<p>In summary, exploratory research is used to gain insights and develop hypotheses about a research problem, while conclusive research is used to provide a final answer to the research question. Exploratory research is flexible in terms of methodology and analysis, while conclusive research is more structured and quantitative in nature. [6]</p>
+</section>
+</section>
+<section id="sub-classification-of-conclusive-research-design" class="level2">
+<h2 class="anchored" data-anchor-id="sub-classification-of-conclusive-research-design">Sub-Classification of Conclusive Research Design</h2>
+<p>Conclusive research design can be classified into two main types: descriptive research and causal research.</p>
+<section id="descriptive-research" class="level3">
+<h3 class="anchored" data-anchor-id="descriptive-research">Descriptive research:</h3>
+<ol type="1">
+<li><p>Descriptive research is used to <strong>describe or summarize characteristics</strong> of a population or phenomenon, such as market trends, customer behavior, or demographic data.</p></li>
+<li><p>Descriptive research is used to <strong>provide a comprehensive picture</strong> of a research problem or issue and can be used to answer research questions related to <strong>who, what, when, where</strong>, and <strong>how</strong>.</p></li>
+<li><p>Descriptive research design is typically used when the researcher wants to understand the current state of affairs or existing correlations between variables.</p></li>
+<li><p>Some common methods used in descriptive research include <strong>surveys, observations</strong>, and <strong>secondary data analysis</strong>.</p></li>
+</ol>
+</section>
+<section id="sub-sub-classification-of-descriptive-research" class="level3">
+<h3 class="anchored" data-anchor-id="sub-sub-classification-of-descriptive-research">Sub-Sub-Classification of Descriptive research</h3>
+<p>Descriptive research can be sub-classified into two main types based on the time frame of the study: cross-sectional research design and longitudinal research design.</p>
+</section>
+<section id="cross-sectional-research-design" class="level3">
+<h3 class="anchored" data-anchor-id="cross-sectional-research-design">Cross-sectional research design</h3>
+<ol type="1">
+<li><p>Cross-sectional research design is a type of descriptive research design that involves collecting data from a sample of individuals at a <strong>single point in time</strong>.</p></li>
+<li><p>The purpose of this type of research design is to describe or <strong>summarize characteristics of a population or phenomenon at a specific point in time</strong>.</p></li>
+<li><p>Cross-sectional research design is typically used when the researcher wants to examine the <strong>prevalence of a particular characteristic, behavior, or attitude within a specific population</strong>.</p></li>
+<li><p>Common methods used in cross-sectional research design include surveys, questionnaires, and observational studies. [7]</p></li>
+</ol>
+</section>
+<section id="longitudinal-research-design" class="level3">
+<h3 class="anchored" data-anchor-id="longitudinal-research-design">Longitudinal research design</h3>
+<ol type="1">
+<li><p>Longitudinal research design is a type of descriptive research design that involves <strong>collecting data</strong> from a sample of individuals <strong>over an extended period of time</strong>.</p></li>
+<li><p>The purpose of this type of research design is to <strong>describe or summarize changes</strong> in a population or phenomenon over time.</p></li>
+<li><p>Longitudinal research design can be further classified into three sub-types:</p></li>
+</ol>
+<ul>
+<li><p><strong>Trend studies</strong>: Trend studies are used to <strong>examine changes in a variable over time</strong>. Trend studies involve collecting data at multiple time points, and the purpose is to <strong>identify whether a particular variable is increasing, decreasing, or remaining stable over time</strong>.</p></li>
+<li><p><strong>Cohort studies</strong>: Cohort studies are used to examine <strong>changes in a specific group of individuals over time</strong>. Cohort studies involve selecting a sample of individuals who share a common characteristic or experience, such as age, occupation, or exposure to a specific event, and following them over time to track changes in their behavior or health.</p></li>
+<li><p><strong>Panel studies</strong>: Panel studies are used to examine <strong>changes in the same individuals over time</strong>. Panel studies involve selecting a sample of individuals and collecting data from them at multiple time points. The purpose is to track changes in the behavior, health, or other characteristics of the same individuals over time. [8]</p></li>
+</ul>
+</section>
+<section id="advantages-and-disadvantages-of-longitudinal-versus-cross-sectional-research-design" class="level3">
+<h3 class="anchored" data-anchor-id="advantages-and-disadvantages-of-longitudinal-versus-cross-sectional-research-design">Advantages and Disadvantages of Longitudinal versus Cross-Sectional research design</h3>
+<p>Longitudinal and cross-sectional research designs have different advantages and disadvantages depending on the research question and the purpose of the study. Here are some of the relative advantages and disadvantages of each design:</p>
+<p><strong>Advantages of longitudinal research design:</strong></p>
+<ol type="1">
+<li><p><strong>Captures changes over time:</strong> Longitudinal research design enables the researcher to capture changes in variables over time, which is particularly useful for studying the development of a phenomenon or tracking the impact of an intervention.</p></li>
+<li><p><strong>Greater control over extraneous variables:</strong> Since the same individuals are being studied over time, longitudinal research design enables the researcher to control for extraneous variables that may affect the outcome.</p></li>
+<li><p><strong>More robust findings:</strong> Longitudinal research design can provide more robust findings because the same individuals are being studied over time, which reduces the likelihood of sampling bias.</p></li>
+<li><p>It allows researchers to identify factors that predict change over time, and to test hypotheses about causal relationships between variables.</p></li>
+</ol>
+<p><strong>Disadvantages of longitudinal research design:</strong></p>
+<ol type="1">
+<li><strong>Expensive and time-consuming:</strong> Longitudinal research design can be expensive and time-consuming, as data is collected over an extended period of time and requires tracking the same individuals.</li>
+<li><strong>Attrition:</strong> There is a risk of attrition in longitudinal studies, where participants may drop out or become lost to follow-up, which can limit the generalizability of the findings.</li>
+<li><strong>Practice effects:</strong> Longitudinal research design can be affected by practice effects, where participants may become more familiar with the research process over time, which may affect their responses.</li>
+</ol>
+<p><strong>Advantages of cross-sectional research design:</strong></p>
+<ol type="1">
+<li><p><strong>Quick and cost-effective:</strong> Cross-sectional research design is quick and cost-effective, as data is collected at a single point in time.</p></li>
+<li><p><strong>Easy to implement:</strong> Cross-sectional research design is easy to implement, and it is suitable for studying a large and diverse population.</p></li>
+<li><p><strong>Can provide an overview:</strong> Cross-sectional research design provides an overview of a phenomenon or population at a single point in time, which can be useful for identifying patterns and trends.</p></li>
+<li><p>It provides a snapshot of a particular point in time, which can be useful for identifying trends and patterns.</p></li>
+</ol>
+<p><strong>Disadvantages of cross-sectional research design:</strong></p>
+<ol type="1">
+<li><p><strong>Cannot capture changes over time</strong>: Cross-sectional research design cannot capture changes in variables over time, which limits its usefulness for studying the development of a phenomenon or tracking the impact of an intervention.</p></li>
+<li><p><strong>Prone to sampling bias</strong>: Cross-sectional research design can be prone to sampling bias, as the sample may not be representative of the population of interest.</p></li>
+<li><p><strong>Cannot control for extraneous variables</strong>: Cross-sectional research design cannot control for extraneous variables that may affect the outcome, which limits its usefulness for causal inference. [9]</p></li>
+</ol>
+</section>
+<section id="causal-research" class="level3">
+<h3 class="anchored" data-anchor-id="causal-research">Causal research:</h3>
+<ol type="1">
+<li><p>Causal research is used to establish <strong>cause-and-effect relationships</strong> between variables.</p></li>
+<li><p>Causal research is used to <strong>determine whether a change in one variable causes a change in another variable</strong>, and is typically used when the researcher wants to understand the underlying mechanisms of a phenomenon.</p></li>
+<li><p>Causal research design typically involves <strong>experimental designs</strong>, where the researcher manipulates one variable <strong>(independent variable)</strong> and observes the effect on another variable <strong>(dependent variable)</strong>, while controlling for extraneous variables.</p></li>
+<li><p>Causal research is <strong>typically more rigorous and time-consuming</strong> than descriptive research, but it can provide more definitive answers to research questions.</p></li>
+</ol>
+<p>Causal research typically involves the following steps:</p>
+<ol type="1">
+<li><p>Identifying the research problem and formulating a research question or hypothesis.</p></li>
+<li><p>Reviewing the literature to identify relevant theories, concepts, and previous research.</p></li>
+<li><p>Identifying the variables of interest and defining them operationally.</p></li>
+<li><p>Designing the study, including selecting the research method, participants, and measures.</p></li>
+<li><p>Conducting the study, including collecting and analyzing data.</p></li>
+<li><p>Interpreting the results, including determining whether there is a causal relationship between the variables.</p></li>
+</ol>
+<p><strong>Sub-classification of Causal Research</strong></p>
+<ol type="1">
+<li><p><strong>Explanatory Research:</strong> This type of research is used to explain the causal relationship between variables. Explanatory research typically involves conducting experiments or quasi-experiments in which the researcher manipulates one variable to determine its effect on another variable, while controlling for extraneous variables that may affect the results. Explanatory research is often used in fields such as psychology, sociology, and economics to determine the causes of behavior, social phenomena, and economic trends, respectively.</p></li>
+<li><p><strong>Predictive Research:</strong> This type of research is used to predict the effect of a variable on another variable. Predictive research typically involves analyzing data from past events to identify patterns and relationships between variables. Predictive research is often used in fields such as marketing, finance, and epidemiology to forecast consumer behavior, stock prices, and disease outbreaks, respectively.</p></li>
+<li><p><strong>Prescriptive Research:</strong> This type of research is used to identify the best course of action to achieve a desired outcome. Prescriptive research typically involves analyzing data from past events to identify the most effective interventions or treatments for a particular problem. Prescriptive research is often used in fields such as medicine, education, and public policy to identify the most effective treatments for diseases, teaching methods, and policy interventions, respectively.</p></li>
+</ol>
+<p>Causal research can be conducted using a variety of research methods, including experiments, quasi-experiments, and longitudinal studies. In experiments, researchers manipulate one or more variables to determine their effect on another variable, while controlling for extraneous variables that may affect the results. Quasi-experiments involve manipulating a variable that cannot be randomly assigned, such as gender or age. Longitudinal studies involve collecting data over a period of time to determine whether changes in one variable are related to changes in another variable. [10]</p>
+</section>
+</section>
+</section>
+<section id="references" class="level1">
+<h1>References</h1>
+<p>[1]</p>
+<p>Malhotra, N. K. (2017). Marketing research: An applied orientation (7th ed.). Pearson.</p>
+<p>Zikmund, W. G., Babin, B. J., Carr, J. C., &amp; Griffin, M. (2013). Business research methods (9th ed.). South-Western, Cengage Learning.</p>
+<p>Hair, J. F., Celsi, M. W., Ortinau, D. J., &amp; Bush, R. P. (2016). Essentials of marketing research (4th ed.). McGraw-Hill Education.</p>
+<p>Churchill, G. A., Jr., &amp; Iacobucci, D. (2019). Marketing research: Methodological foundations (11th ed.). Cengage Learning.</p>
+<p>Kumar, V., &amp; Reinartz, W. (2016). Marketing research: An applied orientation (6th ed.). Pearson.</p>
+<p>[2]</p>
+<p>Leedy, P. D., &amp; Ormrod, J. E. (2015). Practical research: Planning and design (11th ed.). Pearson Education.</p>
+<p>Sekaran, U., &amp; Bougie, R. (2016). Research methods for business: A skill-building approach (7th ed.). Wiley.</p>
+<p>Creswell, J. W. (2014). Research design: Qualitative, quantitative, and mixed methods approaches (4th ed.). Sage Publications.</p>
+<p>Bryman, A., &amp; Bell, E. (2015). Business research methods (4th ed.). Oxford University Press.</p>
+<p>Cooper, D. R., &amp; Schindler, P. S. (2014). Business research methods (12th ed.). McGraw-Hill Education.</p>
+<p>[3]</p>
+<p>Bryman, A. (2016). Social research methods (5th ed.). Oxford University Press.</p>
+<p>Kothari, C. R. (2014). Research methodology: Methods and techniques (3rd ed.). New Age International.</p>
+<p>Creswell, J. W., &amp; Creswell, J. D. (2017). Research design: Qualitative, quantitative, and mixed methods approaches (5th ed.). SAGE Publications.</p>
+<p>Maxwell, J. A. (2013). Qualitative research design: An interactive approach. SAGE Publications.</p>
+<p>Campbell, D. T., &amp; Stanley, J. C. (1966). Experimental and quasi-experimental designs for research. Houghton Mifflin Company.</p>
+<p>[4]</p>
+<p>Creswell, J. W. (2014). Research design: qualitative, quantitative, and mixed methods approaches (4th ed.). SAGE Publications, Inc.</p>
+<p>Gall, M. D., Gall, J. P., &amp; Borg, W. R. (2007). Educational research: An introduction (8th ed.). Pearson.</p>
+<p>Leedy, P. D., &amp; Ormrod, J. E. (2013). Practical research: planning and design (10th ed.). Pearson.</p>
+<p>Neuman, W. L. (2014). Social research methods: qualitative and quantitative approaches (7th ed.). Pearson.</p>
+<p>Yin, R. K. (2018). Case study research and applications: Design and methods (6th ed.). SAGE Publications, Inc.</p>
+<p>[5]</p>
+<p>Cooper, D. R., &amp; Schindler, P. S. (2014). Business research methods (12th ed.). McGraw-Hill Education.</p>
+<p>Gall, M. D., Gall, J. P., &amp; Borg, W. R. (2007). Educational research: An introduction (8th ed.). Pearson.</p>
+<p>Neuman, W. L. (2014). Social research methods: qualitative and quantitative approaches (7th ed.). Pearson.</p>
+<p>Trochim, W. M. K., &amp; Donnelly, J. P. (2008). Research methods knowledge base (3rd ed.). Atomic Dog Publishing.</p>
+<p>Babin, B. J., Darden, W. R., &amp; Griffin, M. (1994). Work and/or fun: Measuring hedonic and utilitarian shopping value. Journal of Consumer Research, 20(4), 644-656.</p>
+<p>Bernhardt, K. L., Donthu, N., &amp; Kennett, P. A. (2000). A longitudinal analysis of satisfaction and profitability. Journal of Business Research, 47(2), 161-171.</p>
+<p>Dwyer, F. R., Schurr, P. H., &amp; Oh, S. (1987). Developing buyer-seller relationships. Journal of Marketing, 51(2), 11-27.</p>
+<p>Schroeder, J. E., Bates, K. A., &amp; Juntunen, D. J. (2015). A longitudinal examination of traditional versus relationship marketing orientation in the retail auto industry. Journal of Personal Selling &amp; Sales Management, 35(3), 223-238.</p>
+<p>Wirtz, J., &amp; Lovelock, C. (2016). Services marketing: People, technology, strategy (8th ed.). World Scientific.</p>
+<p>[6]</p>
+<p>Cooper, D. R., &amp; Schindler, P. S. (2014). Business research methods (12th ed.). McGraw-Hill Education.</p>
+<p>Hair, J. F., Jr., Wolfinbarger, M., Ortinau, D. J., &amp; Bush, R. P. (2013). Essentials of marketing research (3rd ed.). McGraw-Hill Education.</p>
+<p>Malhotra, N. K. (2010). Marketing research: An applied orientation (6th ed.). Prentice Hall.</p>
+<p>Saunders, M., Lewis, P., &amp; Thornhill, A. (2019). Research methods for business students (8th ed.). Pearson Education Limited.</p>
+<p>Ghauri, P. N., &amp; Grønhaug, K. (2010). Research methods in business studies: A practical guide (4th ed.). Pearson Education.</p>
+<p>Leung, K., Kim, Y. Y., &amp; Taylor, M. S. (1993). Theories of cross-cultural management: An overview. Academy of Management Journal, 36(2), 237-270.</p>
+<p>Mackenzie, S. B., &amp; Podsakoff, P. M. (2012). Common method bias in marketing: Causes, mechanisms, and procedural remedies. Journal of Retailing, 88(4), 542-555.</p>
+<p>Zikmund, W. G., Babin, B. J., Carr, J. C., &amp; Griffin, M. (2013). Business research methods (9th ed.). Cengage Learning.</p>
+<p>[7]</p>
+<p>Schinka, J. A., &amp; Velicer, W. F. (2003). Handbook of psychology: Research methods in psychology (Vol. 2). Wiley.</p>
+<p>Eapen, A. M. (2015). Cross-sectional studies: advantages and disadvantages. Journal of Dental and Medical Sciences, 14(3), 9-12.</p>
+<p>Cramer, D. (2003). Cross-sectional research design. In The SAGE Encyclopedia of Social Science Research Methods (pp.&nbsp;217-218). Sage Publications.</p>
+<p>Liu, S. Y., &amp; Lee, G. C. Y. (2019). Cross-sectional study design and data analysis. Journal of Graduate Medical Education, 11(6), 691-693.</p>
+<p>McCarthy, M. L., &amp; Loffredo, C. A. (2019). Cross-sectional surveys. In Public Health Research Methods (pp.&nbsp;305-328). Springer.</p>
+<p>Rania, N. (2015). The importance of cross-sectional research design. International Journal of Management and Applied Research, 2(1), 1-4.</p>
+<p>[8]</p>
+<p>Babbie, E. R. (2016). The basics of social research (7th ed.). Cengage Learning.</p>
+<p>Kumar, R. (2014). Research methodology: A step-by-step guide for beginners (4th ed.). Sage Publications.</p>
+<p>Creswell, J. W. (2014). Research design: Qualitative, quantitative, and mixed methods approaches (4th ed.). Sage Publications.</p>
+<p>Flick, U. (2015). Introducing research methodology: A beginner’s guide to doing a research project. Sage Publications.</p>
+<p>Gall, M. D., Gall, J. P., &amp; Borg, W. R. (2018). Educational research: An introduction (11th ed.). Pearson.</p>
+<p>Alwin, D. F., &amp; Hauser, R. M. (1975). The decomposition of effects in path analysis. American Sociological Review, 40(1), 37-47.</p>
+<p>Menard, S. (1991). Longitudinal research. Sage Publications.</p>
+<p>Nesselroade, J. R., &amp; Baltes, P. B. (1979). Longitudinal research in the study of behavior and development. Academic Press.</p>
+<p>[9]</p>
+<p>Schaie, K. W. (2005). Developmental influences on adult intelligence: The Seattle longitudinal study. Oxford University Press.</p>
+<p>Stevens, J. P. (2009). Applied multivariate statistics for the social sciences. Routledge.</p>
+<p>Campbell, D. T., &amp; Stanley, J. C. (1963). Experimental and quasi-experimental designs for research. Rand McNally.</p>
+<p>Field, A. (2013). Discovering statistics using IBM SPSS statistics. Sage.</p>
+<p>[10]</p>
+<p>Babbie, E. R. (2016). The basics of social research (7th ed.). Cengage Learning.</p>
+<p>Kumar, R. (2014). Research methodology: A step-by-step guide for beginners (4th ed.). Sage Publications.</p>
+<p>Creswell, J. W. (2014). Research design: Qualitative, quantitative, and mixed methods approaches (4th ed.). Sage Publications.</p>
+<p>Gay, L. R., Mills, G. E., &amp; Airasian, P. (2011). Educational research: Competencies for analysis and applications (10th ed.). Pearson.</p>
+<p>Cook, T. D., &amp; Campbell, D. T. (1979). Quasi-experimentation: Design and analysis issues for field settings. Rand McNally College Publishing Company.</p>
+<p>Murray, C., &amp; O’Donoghue, T. (2017). Beyond the divide: Tackling causal and descriptive research in marketing. European Journal of Marketing, 51(7/8), 1342-1365. doi: 10.1108/EJM-02-2016-0088</p>
+<p>Dattalo, P. (2013). Determining sample size: Balancing power, precision, and practicality. Oxford University Press.</p>
+<p>Flick, U. (2015). Introducing research methodology: A beginner’s guide to doing a research project. Sage Publications.</p>
+<p>Yadav, S. B. (2015). Research methodology: A step-by-step guide for beginners. International Journal of Interdisciplinary and Multidisciplinary Studies, 2(5), 71-77.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://www.qatar.cmu.edu/directory/sameer-mathur/">Sameer Mathur</a>
+  </li>  
+</ul>
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>

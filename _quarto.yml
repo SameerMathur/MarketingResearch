@@ -41,6 +41,7 @@ website:
       - href: index.qmd
         text: Overview
       - 01OverviewOfMR.qmd
+      - 02ResearchDesign.qmd
 
 ### END yaml FOR BOOK'S WEBSITE ###
 

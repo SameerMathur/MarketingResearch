@@ -1,7 +1,17 @@
 # Overview of this Book {.unnumbered}
 
-*Aug 21, 2023*
+*Aug 24, 2023*
 
 Delve into the world of Marketing Research..
 
+
+PART 1: Marketing Research Concepts
+
+Chapter 1: Overview of Marketing Research
+
+Chapter 2: Research Design
+
+PART 2: Marketing Research Methods
+
+*<coming soon>*
 
