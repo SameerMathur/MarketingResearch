@@ -1,12 +1,12 @@
-# Research Design
+# Marketing Research Design
 
-*Aug 24, 2023.*
+*Aug 30, 2023.*
 
 -   Marketing research design is the process of developing **a plan or framework for conducting market research** to address specific research objectives.
 
 ## Goals
 
-1.  The core objective of research design is to formulate **a plan or strategy for conducting research** in a comprehensive and systematic way. This design outlines the s**procedures, methods, and techniques** necessary for data gathering and interpretation, and it provides the standards for assessing the outcomes.
+1.  The core objective of research design is to formulate **a plan or strategy for conducting research** in a comprehensive and systematic way. This design outlines the **procedures, methods, and techniques** necessary for data gathering and interpretation, and it provides the standards for assessing the outcomes.
 
 -   The twofold purpose of research design is to confirm that the study is **reliable, valid, and generalizable** to the target population. A thoughtfully crafted research project offers crucial knowledge and perspectives beneficial for guiding decisions across diverse disciplines like marketing, psychology, sociology, and healthcare. \[1\]
 
@@ -14,32 +14,43 @@
 
 **Characteristics of an Effective Research Design:**
 
-1. **Clearly Defined Research Question:** The foundation of a strong research design lies in a concise and specific question or hypothesis.
-  
-2. **Appropriate Research Method:** The design should employ a suitable method, be it surveys, experiments, case studies, or observational studies, based on the research question and aims.
+1.  **Clearly Defined Research Question:** The foundation of a strong research design lies in a concise and specific question or hypothesis.
 
-3. **Appropriate Sampling Method:** The chosen sampling technique should aptly represent the target audience and minimize biases. This could range from random sampling, stratified sampling, to convenience sampling.
+2.  **Appropriate Research Method:** The design should employ a suitable method, be it surveys, experiments, case studies, or observational studies, based on the research question and aims.
 
-4. **Valid and Reliable Data Collection:** Tools like questionnaires, interviews, or observation protocols should be both valid and reliable, aligning with the research method and participants.
+3.  **Appropriate Sampling Method:** The chosen sampling technique should aptly represent the target audience and minimize biases. This could range from random sampling, stratified sampling, to convenience sampling.
 
-5. **Ethical Considerations:** The design should prioritize ethics, ensuring informed consent, participant privacy, confidentiality, and the welfare of the participants.
+4.  **Valid and Reliable Data Collection:** Tools like questionnaires, interviews, or observation protocols should be both valid and reliable, aligning with the research method and participants.
 
-6. **Adequate Sample Size:** The sample size should be sufficient, ensuring statistical significance and the capacity to identify impactful effects or variances.
+5.  **Adequate Sample Size:** The sample size should be sufficient, ensuring statistical significance and the capacity to identify impactful effects or variances.
 
-7. **Data Analysis Plan:** The design should encompass a fitting data analysis strategy, whether it's descriptive statistics, regression analysis, or content analysis, tailored to the research method and the gathered data.
+6.  **Data Analysis Plan:** The design should encompass a fitting data analysis strategy, whether it's descriptive statistics, regression analysis, or content analysis, tailored to the research method and the gathered data.
 
-8. **Timeliness and Feasibility:** The design should be realistic, allowing for the research to be conducted within the given resources and timeframe, all while yielding substantial and credible outcomes.
+7.  **Timeliness and Feasibility:** The design should be realistic, allowing for the research to be conducted within the given resources and timeframe, all while yielding substantial and credible outcomes.
+
+8.  **Ethical Considerations:** The design should prioritize ethics, ensuring informed consent, participant privacy, confidentiality, and the welfare of the participants.
 
 An effective marketing research design helps companies to **make informed decisions**, develop **effective marketing strategies**, and **stay competitive** in the marketplace. \[2\]
 
+### Illustration: Coke vs. Pepsi Taste Test\*\*
 
+Let us use the famous study on the "Pepsi vs. Coke" taste tests as an example to illustrate these characteristics of an effective research design.
 
+**1. Clearly Defined Research Question:** The central question for the Pepsi vs. Coke taste test was straightforward and specific: "Which soft drink do consumers prefer in a blind taste test: Pepsi or Coke?" **2. Appropriate Research Method:** Blind taste tests were conducted where participants didn't know which soda they were drinking. This falls under experimental research.
 
+**3. Appropriate Sampling Method:** The participants in the taste test were generally a diverse set of consumers to represent a broader population. However, for this illustration, let's assume a random sampling was used.
 
+**4. Valid and Reliable Data Collection:** The blind taste test methodology is valid as it measures genuine preference without brand influence. It's reliable because, when repeated, it produces consistent results.
 
+**5. Adequate Sample Size:** Thousands of taste tests were conducted, which provided a robust sample size to derive significant conclusions.
 
+**6. Data Analysis Plan:** Descriptive statistics were mainly used to showcase the preference percentages between Pepsi and Coke.
 
+**7. Timeliness and Feasibility:** The taste tests were conducted in various locations and over specific durations, making it feasible and timely.
 
+**8. Ethical Considerations:** Participants provided their taste preferences without any potential harm, and their personal data was protected, ensuring ethical soundness.
+
+The Pepsi vs. Coke taste test research provided actionable insights that both companies used in their marketing strategies. For instance, Coca-Cola responded with the controversial "New Coke" based on such research. This illustrates how effective marketing research design aids companies in making informed decisions, creating effective marketing strategies, and maintaining competitiveness. \[3\]
 
 ## Classifications of Research Design
 
@@ -91,111 +102,146 @@ Research design can also be classified based on the data analysis method:
 
 -   used to generate new theories or hypotheses from the data collected.
 
-In summary, research design can be classified based on various criteria, such as purpose, time frame, data collection method, and data analysis method. The choice of research design depends on the research question, the nature of the research problem, and the goals of the research. \[3\]
+In summary, research design can be classified based on various criteria, such as purpose, time frame, data collection method, and data analysis method. The choice of research design depends on the research question, the nature of the research problem, and the goals of the research. \[4\]
 
+### Illustration: Facebook's Emotional Contagion Study\*\*
 
+**Overview**
 
+1.  Facebook's emotional contagion study, conducted in 2012 and later published in 2014 set out to understand whether emotions can spread among users through the content of the social media posts they see.
 
+2.  Over a week, the research manipulated the News Feeds of nearly 700,000 Facebook users. Some users were shown content with more positive emotional words, while others were exposed to content with more negative emotional words. The study aimed to assess if these users would subsequently post more positive or negative content themselves based on what they were exposed to.
+
+3.  The study found that users who were exposed to more negative content were marginally more likely to post negative status updates, while those exposed to positive content were somewhat more likely to post positive status updates. The researchers claimed this as evidence of emotional contagion, suggesting emotions can be spread indirectly via online social networks.
+
+4.  What made this study particularly controversial was the lack of informed consent. Users were not aware that their News Feeds were being manipulated for research purposes, raising significant ethical concerns. The uproar that followed led to discussions on the balance between research and user privacy in the digital age. \[5\]
+
+-   **Based on purpose:**
+
+1.  **Exploratory research design:** In the early days of social media, researchers might have conducted exploratory studies to understand user behavior, motivations, and attitudes towards such platforms without much prior information.
+
+2.  **Descriptive research design:** A study might describe the average amount of time users spend on Facebook daily or weekly. Or, a study might summarize the demographic breakdown of Facebook users.
+
+3.  **Causal research design:** Facebook's emotional contagion study is an example. Researchers manipulated the number of positive or negative posts users saw to determine if it affected the user's own posts, seeking a cause-and-effect relationship.
+
+-   **Based on time frame:**
+
+1.  **Cross-sectional research design:** The Facebook study collected data at specific times, examining user behavior during those periods.
+
+2.  **Longitudinal research design:** If Facebook were to study the changing behavior of users over several years, observing the same group of users, this would be longitudinal.
+
+-   **Based on data collection method:**
+
+1.  **Quantitative research design:** The emotional contagion study used algorithms to quantify the content of posts (positive or negative) and used this structured data for their analyses.
+
+2.  **Qualitative research design:** If researchers were to conduct in-depth interviews or focus groups to explore user feelings about their Facebook experiences, this would be qualitative.
+
+-   **Based on data analysis method:**
+
+1.  **Deductive research design:** The Facebook study began with a hypothesis about emotional contagion, which they then tested with their data.
+
+2.  **Inductive research design:** If Facebook started by observing patterns of user behavior and then formulated theories or hypotheses based on those observations, this would be inductive.
+
+**End Note:** Research design classifications provide frameworks for researchers. Using the Facebook emotional contagion study as an example, we can see how research can fit into multiple classifications depending on its objectives and methodologies. \[5\]
 
 ## **Classifications of Research Design Based on Purpose**
 
-
 ### **1. Exploratory Research Design**
 
-- **Nature**: Used when there's **limited or no prior knowledge** about the research problem.
+-   **Nature**: Used when there's **limited or no prior knowledge** about the research problem.
 
-- **Goal**: To **gain insights, generate hypotheses**, and cultivate a **deeper understanding** of the research problem.
+-   **Goal**: To **gain insights, generate hypotheses**, and cultivate a **deeper understanding** of the research problem.
 
-- **Usage**: Employed **when the research issue is ambiguous, intricate, or not well-defined** to explore varied perspectives, ideas, and potential remedies.
+-   **Usage**: Employed **when the research issue is ambiguous, intricate, or not well-defined** to explore varied perspectives, ideas, and potential remedies.
 
-- **Position**: Often the **initial phase** in the research journey, helping in shaping and refining questions and hypotheses.
+-   **Position**: Often the **initial phase** in the research journey, helping in shaping and refining questions and hypotheses.
 
-- **Methods**: Incorporates multiple methods like **literature reviews, case studies, observations, interviews, focus groups, or surveys** based on the research problem and objectives.
+-   **Methods**: Incorporates multiple methods like **literature reviews, case studies, observations, interviews, focus groups, or surveys** based on the research problem and objectives.
 
-- **Characteristics**: Known for its **flexibility, creativity**, and **adaptability**.
+-   **Characteristics**: Known for its **flexibility, creativity**, and **adaptability**.
 
-- **Data Type**: Enables the researcher to gather **both qualitative and quantitative data**, leveraging varied information sources.
+-   **Data Type**: Enables the researcher to gather **both qualitative and quantitative data**, leveraging varied information sources.
 
-- **Findings**: Results are generally **not definitive**; the primary aim is to **unearth new insights and concepts** for future research or decision-making.
+-   **Findings**: Results are generally **not definitive**; the primary aim is to **unearth new insights and concepts** for future research or decision-making.
 
 ### **2. Conclusive Research Design**
 
-- **Nature**: Seeks to **offer a final conclusion** or resolve a specific research question/problem.
+-   **Nature**: Seeks to **offer a final conclusion** or resolve a specific research question/problem.
 
-- **Goal**: To validate a hypothesis or provide a resolution to a research question with high certainty.
+-   **Goal**: To validate a hypothesis or provide a resolution to a research question with high certainty.
 
-- **Usage**: Used when a clear comprehension of the research problem exists and the aim is to test a hypothesis or solve a particular research question.
+-   **Usage**: Used when a clear comprehension of the research problem exists and the aim is to test a hypothesis or solve a particular research question.
 
-- **Nature of Data**: Primarily **quantitative**, collecting organized data through surveys, experiments, or observational studies.
+-   **Nature of Data**: Primarily **quantitative**, collecting organized data through surveys, experiments, or observational studies.
 
-- **Approach**: More regimented than exploratory research, often requiring a **larger sample size** to ensure representative findings.
+-   **Approach**: More regimented than exploratory research, often requiring a **larger sample size** to ensure representative findings.
 
-- **Design Rigor**: Ensures the results are **reliable, valid,** and **generalizable** to the entire population.
+-   **Design Rigor**: Ensures the results are **reliable, valid,** and **generalizable** to the entire population.
 
-- **Analysis**: Typically involves **statistical data analysis**, deriving conclusions about the tested hypothesis or research question.
+-   **Analysis**: Typically involves **statistical data analysis**, deriving conclusions about the tested hypothesis or research question.
 
-- **Application**: Findings are frequently utilized for making informed decisions, devising efficient marketing tactics, or influencing public policy.
+-   **Application**: Findings are frequently utilized for making informed decisions, devising efficient marketing tactics, or influencing public policy.
 
 ### **3. Differences between Exploratory and Conclusive Research Designs**
 
-- **Purpose**: Exploratory research delves into topics with **minimal or unknown information** to uncover more, while conclusive research, having a clear grasp on the issue, seeks **definite answers or conclusions**.
+-   **Purpose**: Exploratory research delves into topics with **minimal or unknown information** to uncover more, while conclusive research, having a clear grasp on the issue, seeks **definite answers or conclusions**.
 
-- **Methodology**: Exploratory research is versatile, using varied methods like literature reviews or interviews to gather diverse information. In contrast, conclusive research is structured, primarily using **quantitative methods**.
+-   **Methodology**: Exploratory research is versatile, using varied methods like literature reviews or interviews to gather diverse information. In contrast, conclusive research is structured, primarily using **quantitative methods**.
 
-- **Sample Size**: Exploratory research often has a **smaller sample size** without the intent of generalization, whereas conclusive research requires a **larger sample size** aiming for population-level generalization.
+-   **Sample Size**: Exploratory research often has a **smaller sample size** without the intent of generalization, whereas conclusive research requires a **larger sample size** aiming for population-level generalization.
 
-- **Analysis**: Exploratory research aims at unfolding new insights through qualitative or descriptive analysis. Conclusive research focuses on hypothesis testing using **quantitative and statistical analysis**.
+-   **Analysis**: Exploratory research aims at unfolding new insights through qualitative or descriptive analysis. Conclusive research focuses on hypothesis testing using **quantitative and statistical analysis**.
 
 To sum it up, while exploratory research seeks to discover and form hypotheses, conclusive research aspires to provide definite answers. The former is adaptive in method and analysis, while the latter is methodical and primarily quantitative. \[6\]
 
-
-
-
 ### McDonald's -- Exploratory Research Design
 
-Exploratory Research Design is about delving deep into unknown territories to uncover clues, understand patterns, and generate hypotheses for further investigation. In essence, it serves as a foundation for more conclusive, often quantitative, research that follows. Let's illustrate this using McDonald’s, the iconic fast-food giant.
+-   Exploratory Research Design is about delving deep into unknown territories to uncover clues, understand patterns, and generate hypotheses for further investigation.
 
-**Scenario**: Imagine that McDonald's observed a decline in their sales in a particular region. They're not sure about the underlying causes, and the current data on hand does not offer clear answers. In this case, instead of diving into a detailed quantitative study immediately, McDonald's might opt for an exploratory research design to understand the potential reasons behind the sales slump.
+-   In essence, it serves as a foundation for more conclusive, often quantitative, research that follows. Let's illustrate this using McDonald's, the iconic fast-food giant.
 
-1. **Interviews with Customers**: McDonald's could organize one-on-one interviews or small focus groups with customers in that region. These dialogues could reveal that perhaps customers are more health-conscious, finding McDonald's offerings not aligning with their dietary preferences.
+**Scenario**:
 
-2. **Observations**: They might deploy observers to selected outlets. These observers might notice that local competition has introduced innovative menu items that are drawing customers away or perhaps the service speed at McDonald's outlets has declined.
+-   Imagine that McDonald's observed a decline in their sales in a particular region.
+-   They're not sure about the underlying causes, and the current data on hand does not offer clear answers.
+-   In this case, instead of diving into a detailed quantitative study immediately, McDonald's might opt for an exploratory research design to understand the potential reasons behind the sales slump.
 
-3. **Literature Review**: An exploration of recent articles, blogs, and reviews might highlight that there's a trending dietary pattern in the region that McDonald’s current menu does not cater to.
+1.  **Interviews with Customers**:
 
-4. **Pilot Surveys**: McDonald’s could roll out short surveys, perhaps digitally or in select outlets, to gauge customer preferences and pain points. They might find out that customers desire a new category of products, like plant-based burgers, which McDonald's has not yet introduced in that region.
+-   McDonald's could organize **one-on-one interviews or small focus groups** with customers in that region.
+-   These dialogues could reveal that perhaps customers are more health-conscious and/or price-sensitive, finding McDonald's offerings not aligning with their dietary preferences and/or budgets.
+
+2.  **Observations**:
+
+-   They might **deploy observers to selected outlets**.
+-   These observers might notice that local competition has introduced innovative menu items that are drawing customers away or perhaps the service speed at McDonald's outlets has declined.
+
+3.  **Literature Review**:
+
+-   An exploration of recent **articles, blogs, and reviews** might highlight that there's a trending dietary pattern in the region that McDonald's current menu does not cater to.
+
+4.  **Pilot Surveys**:
+
+-   McDonald's could roll out **short surveys**, perhaps digitally or in select outlets, to gauge customer preferences and pain points.
+-   They might find out that customers desire a new category of products, like plant-based burgers, which McDonald's has not yet introduced in that region.
 
 **Discussion**
 
-* The value of this exploratory research for McDonald’s lies in its flexibility and depth. 
+-   The value of this exploratory research for McDonald's lies in its flexibility and depth.
 
-* It provides a qualitative understanding of the problem, offering rich insights that can’t be captured through mere numbers. 
+-   It provides a qualitative understanding of the problem, offering rich insights that can't be captured through mere numbers.
 
-* Once these initial insights are garnered, McDonald's can then invest in a large-scale, quantitative research project to test the hypotheses formulated from the exploratory phase.
+-   Once these initial insights are garnered, McDonald's can then invest in a large-scale, quantitative research project to test the hypotheses formulated from the exploratory phase.
 
-* Critically speaking, it's essential to recognize its limitations. The findings from such research are not definitive. They are **subjective**, based on a smaller sample size, and might not always be generalizable to the broader population. However, in situations of ambiguity, like sales decline of McDonald's in a specific region, the exploratory research design proves invaluable in painting a clearer picture, setting the stage for more detailed investigations.
+-   The findings from such research are not definitive. They are **subjective**, based on a smaller sample size, and might not always be generalizable to the broader population. However, in situations of ambiguity, like sales decline of McDonald's in a specific region, the exploratory research design proves invaluable in painting a clearer initial picture, setting the stage for more detailed investigations.
 
+## Conclusive Research Design -- Descriptive vs. Causal Research
 
+Conclusive research design can be sub-classified into two main types:
 
+-   **Descriptive research**
 
-
-
-
-
-
-
-## Sub-Classification of Conclusive Research Design
-
-Conclusive research design can be classified into two main types: 
-
-* **Descriptive research**
-
-* **Causal research**
-
-
-
-
-
+-   **Causal research**
 
 ### Descriptive research:
 
@@ -207,23 +253,23 @@ Conclusive research design can be classified into two main types:
 
 4.  Some common methods used in descriptive research include **surveys, observations**, and **secondary data analysis**.
 
-### Sub-Sub-Classification of Descriptive research
+### Cross-Sectional vs. Longitudianal Descriptive research
 
 Descriptive research can be sub-classified into two main types based on the time frame of the study: cross-sectional research design and longitudinal research design.
 
-* **Cross-sectional research design**
+-   **Cross-sectional research design**
 
-1.  Cross-sectional research design is a type of descriptive research design that involves collecting data from a sample of individuals at a **single point in time**.
+1.  It is a type of descriptive research design that involves collecting data from a sample of individuals at a **single point in time**.
 
 2.  The purpose of this type of research design is to describe or **summarize characteristics of a population or phenomenon at a specific point in time**.
 
-3.  Cross-sectional research design is typically used when the researcher wants to examine the **prevalence of a particular characteristic, behavior, or attitude within a specific population**.
+3.  It is typically used when the researcher wants to examine the **prevalence of a particular characteristic, behavior, or attitude within a specific population**.
 
-4.  Common methods used in cross-sectional research design include surveys, questionnaires, and observational studies. \[7\]
+4.  Common methods used in cross-sectional research design include **surveys**, **questionnaires**, and **observational studies**. \[7\]
 
-* **Longitudinal research design**
+-   **Longitudinal research design**
 
-1.  Longitudinal research design is a type of descriptive research design that involves **collecting data** from a sample of individuals **over an extended period of time**.
+1.  It is a type of descriptive research design that involves **collecting data** from a sample of individuals **over an extended period of time**.
 
 2.  The purpose of this type of research design is to **describe or summarize changes** in a population or phenomenon over time.
 
@@ -235,48 +281,6 @@ Descriptive research can be sub-classified into two main types based on the time
 
 -   **Panel studies**: Panel studies are used to examine **changes in the same individuals over time**. Panel studies involve selecting a sample of individuals and collecting data from them at multiple time points. The purpose is to track changes in the behavior, health, or other characteristics of the same individuals over time. \[8\]
 
-### Advantages and Disadvantages of Longitudinal versus Cross-Sectional research design
-
-Longitudinal and cross-sectional research designs have different advantages and disadvantages depending on the research question and the purpose of the study. Here are some of the relative advantages and disadvantages of each design:
-
-**Advantages of longitudinal research design:**
-
-1.  **Captures changes over time:** Longitudinal research design enables the researcher to capture changes in variables over time, which is particularly useful for studying the development of a phenomenon or tracking the impact of an intervention.
-
-2.  **Greater control over extraneous variables:** Since the same individuals are being studied over time, longitudinal research design enables the researcher to control for extraneous variables that may affect the outcome.
-
-3.  **More robust findings:** Longitudinal research design can provide more robust findings because the same individuals are being studied over time, which reduces the likelihood of sampling bias.
-
-4.  It allows researchers to identify factors that predict change over time, and to test hypotheses about causal relationships between variables.
-
-**Disadvantages of longitudinal research design:**
-
-1.  **Expensive and time-consuming:** Longitudinal research design can be expensive and time-consuming, as data is collected over an extended period of time and requires tracking the same individuals.
-2.  **Attrition:** There is a risk of attrition in longitudinal studies, where participants may drop out or become lost to follow-up, which can limit the generalizability of the findings.
-3.  **Practice effects:** Longitudinal research design can be affected by practice effects, where participants may become more familiar with the research process over time, which may affect their responses.
-
-**Advantages of cross-sectional research design:**
-
-1.  **Quick and cost-effective:** Cross-sectional research design is quick and cost-effective, as data is collected at a single point in time.
-
-2.  **Easy to implement:** Cross-sectional research design is easy to implement, and it is suitable for studying a large and diverse population.
-
-3.  **Can provide an overview:** Cross-sectional research design provides an overview of a phenomenon or population at a single point in time, which can be useful for identifying patterns and trends.
-
-4.  It provides a snapshot of a particular point in time, which can be useful for identifying trends and patterns.
-
-**Disadvantages of cross-sectional research design:**
-
-1.  **Cannot capture changes over time**: Cross-sectional research design cannot capture changes in variables over time, which limits its usefulness for studying the development of a phenomenon or tracking the impact of an intervention.
-
-2.  **Prone to sampling bias**: Cross-sectional research design can be prone to sampling bias, as the sample may not be representative of the population of interest.
-
-3.  **Cannot control for extraneous variables**: Cross-sectional research design cannot control for extraneous variables that may affect the outcome, which limits its usefulness for causal inference. \[9\]
-
-
-
-
-
 ### **McDonald's -- Descriptive Research Illustration**
 
 Descriptive research, nestled within the broader umbrella of conclusive research, seeks to depict and explain the characteristics of variables within a dataset, usually without influencing them. It's akin to capturing a snapshot at a given time and using that image to discern patterns, behaviors, and attributes.
@@ -285,21 +289,15 @@ Let's explore this concept using the McDonald's brand for clarity.
 
 **Scenario**: Suppose McDonald's wants to comprehend the breakfast consumption habits of its customers across different age groups in a particular city.
 
-1. **Surveys and Questionnaires**: McDonald's might deploy structured surveys across various outlets during breakfast hours. This tool could probe into customers' favorite breakfast items, the frequency of their breakfast visits in a week, and their preferred time for breakfast. Through these surveys, McDonald's could identify that, for instance, millennials predominantly prefer the Egg McMuffin, while the older age group might lean towards the Hotcakes. 
+1.  **Surveys and Questionnaires**: McDonald's might deploy structured surveys across various outlets during breakfast hours. This tool could probe into customers' favorite breakfast items, the frequency of their breakfast visits in a week, and their preferred time for breakfast. Through these surveys, McDonald's could identify that, for instance, millennials predominantly prefer the Egg McMuffin, while the older age group might lean towards the Hotcakes.
 
-2. **Observational Studies**: Researchers might be stationed at select McDonald's outlets to note the flow of customers, specifically observing which age groups are more likely to consume breakfast at McDonald's. Observationally, it might be discerned that the outlets are busiest with younger clientele between 7 am to 8 am, perhaps before they head to work or college.
+2.  **Observational Studies**: Researchers might be stationed at select McDonald's outlets to note the flow of customers, specifically observing which age groups are more likely to consume breakfast at McDonald's. Observationally, it might be discerned that the outlets are busiest with younger clientele between 7 am to 8 am, perhaps before they head to work or college.
 
-3. **Usage of Existing Records**: McDonald's could mine its sales data, examining which breakfast items sell the most during specific hours and to specific customer demographics, if that data is available. From this, they might discern that sales of coffee surge post 8:30 am, possibly indicating a second wave of customers seeking a caffeine fix.
+3.  **Usage of Existing Records**: McDonald's could mine its sales data, examining which breakfast items sell the most during specific hours and to specific customer demographics, if that data is available. From this, they might discern that sales of coffee surge post 8:30 am, possibly indicating a second wave of customers seeking a caffeine fix.
 
 Critically evaluating, while descriptive research provides a rich depiction of the current state, it's confined to the "what" and not the "why." For McDonald's, while they'll discern what breakfast items are popular and when, they won't necessarily grasp why those particular items are preferred or why some age groups visit at certain times. This distinction is vital; for deeper comprehension, they'd need to delve into causal or experimental research.
 
-Moreover, the accuracy of descriptive research heavily relies on the tools used. For instance, surveys might suffer from biases based on how questions are framed or the honesty of respondents. 
-
-
-
-
-
-
+Moreover, the accuracy of descriptive research heavily relies on the tools used. For instance, surveys might suffer from biases based on how questions are framed or the honesty of respondents.
 
 ### Causal research:
 
@@ -333,30 +331,19 @@ Causal research typically involves the following steps:
 
 3.  **Prescriptive Research:** This type of research is used to identify the best course of action to achieve a desired outcome. Prescriptive research typically involves analyzing data from past events to identify the most effective interventions or treatments for a particular problem. Prescriptive research is often used in fields such as medicine, education, and public policy to identify the most effective treatments for diseases, teaching methods, and policy interventions, respectively.
 
-Causal research can be conducted using a variety of research methods, including experiments, quasi-experiments, and longitudinal studies. In experiments, researchers manipulate one or more variables to determine their effect on another variable, while controlling for extraneous variables that may affect the results. Quasi-experiments involve manipulating a variable that cannot be randomly assigned, such as gender or age. Longitudinal studies involve collecting data over a period of time to determine whether changes in one variable are related to changes in another variable. \[10\]
-
-
-
-
-
-
-
+Causal research can be conducted using a variety of research methods, including experiments, quasi-experiments, and longitudinal studies. In experiments, researchers manipulate one or more variables to determine their effect on another variable, while controlling for extraneous variables that may affect the results. Quasi-experiments involve manipulating a variable that cannot be randomly assigned, such as gender or age. Longitudinal studies involve collecting data over a period of time to determine whether changes in one variable are related to changes in another variable. \[9\]
 
 ### **McDonald's -- Causal Research Illustration**
 
 Causal research, a cornerstone of conclusive research, is concerned with understanding cause-and-effect relationships between variables. It tries to discern not just if two variables are related, but if one actively causes changes in the other.
 
-**Scenario**: McDonald’s notices a surge in sales every time they launch a new advertisement campaign for their signature burger, the Big Mac. They aim to determine whether the new advertisements directly cause the spike in sales.
+**Scenario**: McDonald's notices a surge in sales every time they launch a new advertisement campaign for their signature burger, the Big Mac. They aim to determine whether the new advertisements directly cause the spike in sales.
 
-1. **Controlled Experiments**: McDonald's could conduct an experiment where two similar regions (or demographically matched groups) are selected. One region (the experimental group) is exposed to the new advertisement campaign, while the other region (the control group) is not. After a designated period, if the region exposed to the ads shows a significant surge in Big Mac sales compared to the control region, it could indicate a causal relationship between the advertisement and sales.
+1.  **Controlled Experiments**: McDonald's could conduct an experiment where two similar regions (or demographically matched groups) are selected. One region (the experimental group) is exposed to the new advertisement campaign, while the other region (the control group) is not. After a designated period, if the region exposed to the ads shows a significant surge in Big Mac sales compared to the control region, it could indicate a causal relationship between the advertisement and sales.
 
-2. **Field Trials**: Instead of a controlled environment, McDonald's could run the advertisement in a particular city and observe the sales patterns, comparing it with historical data or with cities where the advertisement hasn't been broadcasted. 
+2.  **Field Trials**: Instead of a controlled environment, McDonald's could run the advertisement in a particular city and observe the sales patterns, comparing it with historical data or with cities where the advertisement hasn't been broadcasted.
 
-3. **Longitudinal Studies**: McDonald’s might also track sales over an extended period, noting every time a new advertisement campaign is launched and mapping this against sales volume. A recurring pattern of sales spikes after ad campaigns might further evidence the causal link.
-
-
-
-
+3.  **Longitudinal Studies**: McDonald's might also track sales over an extended period, noting every time a new advertisement campaign is launched and mapping this against sales volume. A recurring pattern of sales spikes after ad campaigns might further evidence the causal link.
 
 \newpage
 
@@ -386,7 +373,11 @@ Bryman, A., & Bell, E. (2015). Business research methods (4th ed.). Oxford Unive
 
 Cooper, D. R., & Schindler, P. S. (2014). Business research methods (12th ed.). McGraw-Hill Education.
 
-\[3\]
+\[3\] Pendergrast, M. (2000). For God, Country and Coca-Cola. Basic Books.
+
+Greising, D. (1998). I'd Like the World to Buy a Coke: The Life and Leadership of Roberto Goizueta. John Wiley & Sons.
+
+\[4\]
 
 Bryman, A. (2016). Social research methods (5th ed.). Oxford University Press.
 
@@ -398,7 +389,15 @@ Maxwell, J. A. (2013). Qualitative research design: An interactive approach. SAG
 
 Campbell, D. T., & Stanley, J. C. (1966). Experimental and quasi-experimental designs for research. Houghton Mifflin Company.
 
-\[4\]
+\[5\]
+
+Kramer, A. D., Guillory, J. E., & Hancock, J. T. (2014). Experimental evidence of massive-scale emotional contagion through social networks. Proceedings of the National Academy of Sciences, 111(24), 8788-8790.
+
+Pew Research Center. (2019). Social media usage in the U.S. in 2019. Pew Research Center's Internet & American Life Project.
+
+Kramer, A. D., Guillory, J. E., & Hancock, J. T. (2014). Experimental evidence of massive-scale emotional contagion through social networks. Proceedings of the National Academy of Sciences, 111(24), 8788-8790.
+
+\[6\]
 
 Creswell, J. W. (2014). Research design: qualitative, quantitative, and mixed methods approaches (4th ed.). SAGE Publications, Inc.
 
@@ -409,8 +408,6 @@ Leedy, P. D., & Ormrod, J. E. (2013). Practical research: planning and design (1
 Neuman, W. L. (2014). Social research methods: qualitative and quantitative approaches (7th ed.). Pearson.
 
 Yin, R. K. (2018). Case study research and applications: Design and methods (6th ed.). SAGE Publications, Inc.
-
-\[5\]
 
 Cooper, D. R., & Schindler, P. S. (2014). Business research methods (12th ed.). McGraw-Hill Education.
 
@@ -429,10 +426,6 @@ Dwyer, F. R., Schurr, P. H., & Oh, S. (1987). Developing buyer-seller relationsh
 Schroeder, J. E., Bates, K. A., & Juntunen, D. J. (2015). A longitudinal examination of traditional versus relationship marketing orientation in the retail auto industry. Journal of Personal Selling & Sales Management, 35(3), 223-238.
 
 Wirtz, J., & Lovelock, C. (2016). Services marketing: People, technology, strategy (8th ed.). World Scientific.
-
-\[6\]
-
-Cooper, D. R., & Schindler, P. S. (2014). Business research methods (12th ed.). McGraw-Hill Education.
 
 Hair, J. F., Jr., Wolfinbarger, M., Ortinau, D. J., & Bush, R. P. (2013). Essentials of marketing research (3rd ed.). McGraw-Hill Education.
 
@@ -482,16 +475,6 @@ Nesselroade, J. R., & Baltes, P. B. (1979). Longitudinal research in the study o
 
 \[9\]
 
-Schaie, K. W. (2005). Developmental influences on adult intelligence: The Seattle longitudinal study. Oxford University Press.
-
-Stevens, J. P. (2009). Applied multivariate statistics for the social sciences. Routledge.
-
-Campbell, D. T., & Stanley, J. C. (1963). Experimental and quasi-experimental designs for research. Rand McNally.
-
-Field, A. (2013). Discovering statistics using IBM SPSS statistics. Sage.
-
-\[10\]
-
 Babbie, E. R. (2016). The basics of social research (7th ed.). Cengage Learning.
 
 Kumar, R. (2014). Research methodology: A step-by-step guide for beginners (4th ed.). Sage Publications.
@@ -509,3 +492,53 @@ Dattalo, P. (2013). Determining sample size: Balancing power, precision, and pra
 Flick, U. (2015). Introducing research methodology: A beginner's guide to doing a research project. Sage Publications.
 
 Yadav, S. B. (2015). Research methodology: A step-by-step guide for beginners. International Journal of Interdisciplinary and Multidisciplinary Studies, 2(5), 71-77.
+
+### Appendix
+
+### Advantages and Disadvantages of Longitudinal versus Cross-Sectional research design
+
+Longitudinal and cross-sectional research designs have different advantages and disadvantages depending on the research question and the purpose of the study. Here are some of the relative advantages and disadvantages of each design:
+
+**Advantages of longitudinal research design:**
+
+1.  **Captures changes over time:** Longitudinal research design enables the researcher to capture changes in variables over time, which is particularly useful for studying the development of a phenomenon or tracking the impact of an intervention.
+
+2.  **Greater control over extraneous variables:** Since the same individuals are being studied over time, longitudinal research design enables the researcher to control for extraneous variables that may affect the outcome.
+
+3.  **More robust findings:** Longitudinal research design can provide more robust findings because the same individuals are being studied over time, which reduces the likelihood of sampling bias.
+
+4.  It allows researchers to identify factors that predict change over time, and to test hypotheses about causal relationships between variables.
+
+**Disadvantages of longitudinal research design:**
+
+1.  **Expensive and time-consuming:** Longitudinal research design can be expensive and time-consuming, as data is collected over an extended period of time and requires tracking the same individuals.
+2.  **Attrition:** There is a risk of attrition in longitudinal studies, where participants may drop out or become lost to follow-up, which can limit the generalizability of the findings.
+3.  **Practice effects:** Longitudinal research design can be affected by practice effects, where participants may become more familiar with the research process over time, which may affect their responses.
+
+**Advantages of cross-sectional research design:**
+
+1.  **Quick and cost-effective:** Cross-sectional research design is quick and cost-effective, as data is collected at a single point in time.
+
+2.  **Easy to implement:** Cross-sectional research design is easy to implement, and it is suitable for studying a large and diverse population.
+
+3.  **Can provide an overview:** Cross-sectional research design provides an overview of a phenomenon or population at a single point in time, which can be useful for identifying patterns and trends.
+
+4.  It provides a snapshot of a particular point in time, which can be useful for identifying trends and patterns.
+
+**Disadvantages of cross-sectional research design:**
+
+1.  **Cannot capture changes over time**: Cross-sectional research design cannot capture changes in variables over time, which limits its usefulness for studying the development of a phenomenon or tracking the impact of an intervention.
+
+2.  **Prone to sampling bias**: Cross-sectional research design can be prone to sampling bias, as the sample may not be representative of the population of interest.
+
+3.  **Cannot control for extraneous variables**: Cross-sectional research design cannot control for extraneous variables that may affect the outcome, which limits its usefulness for causal inference. \[A1\]
+
+\[A1\]
+
+Schaie, K. W. (2005). Developmental influences on adult intelligence: The Seattle longitudinal study. Oxford University Press.
+
+Stevens, J. P. (2009). Applied multivariate statistics for the social sciences. Routledge.
+
+Campbell, D. T., & Stanley, J. C. (1963). Experimental and quasi-experimental designs for research. Rand McNally.
+
+Field, A. (2013). Discovering statistics using IBM SPSS statistics. Sage.
