@@ -321,9 +321,9 @@ Descriptive research can be sub-classified into two main types based on the time
 
     -   *McDonald's could **mine its sales data**, examining which breakfast items sell the most during specific hours and to specific customer demographics, if that data is available.*
 
-    -   *From this, they might discern that sales of coffee surge post 8:30 am, possibly indicating a second wave of customers seeking a caffeine fix.*
+    -   *From this, they **might discern that sales of coffee surge post 8:30 am**, possibly indicating a second wave of customers seeking a caffeine fix.*
 
--   *While descriptive research provides a rich depiction of the current state, it's confined to the "what" and not the "why." For McDonald's, while they'll discern what breakfast items are popular and when, they won't necessarily grasp why those particular items are preferred or why some age groups visit at certain times. This distinction is vital; for deeper comprehension, they'd need to delve into causal or experimental research.*
+-   *While descriptive research provides a rich depiction of the current state, **it's confined to the "what" and not the "why."** For McDonald's, while they'll discern what breakfast items are popular and when, they won't necessarily grasp why those particular items are preferred or why some age groups visit at certain times. This distinction is vital; for deeper comprehension, they'd need to delve into causal or experimental research.*
 
 -   *Moreover, the accuracy of descriptive research heavily relies on the tools used. For instance, surveys might suffer from biases based on how questions are framed or the honesty of respondents.*
 
@@ -389,9 +389,15 @@ Causal research can be conducted using a variety of research methods, including 
 
 ### ***McDonald's -- Causal Research Illustration***
 
-*Causal research, a cornerstone of conclusive research, is concerned with understanding cause-and-effect relationships between variables. It tries to discern not just if two variables are related, but if one actively causes changes in the other.*
+-   *Causal research, a cornerstone of conclusive research, is concerned with understanding cause-and-effect relationships between variables.*
 
-***Scenario**: McDonald's notices a surge in sales every time they launch a new advertisement campaign for their signature burger, the Big Mac. They aim to determine whether the new advertisements directly cause the spike in sales.*
+-   *It tries to discern not just if two variables are related, but if one actively causes changes in the other.*
+
+***Scenario**:*
+
+-   ***McDonald's notices a surge in sales every time they launch a new advertisement campaign for their signature burger, the Big Mac**.*
+
+-   *They aim to determine whether the new advertisements directly cause the spike in sales.*
 
 1.  ***Controlled Experiments**: McDonald's could conduct an experiment where two similar regions (or demographically matched groups) are selected. One region (the experimental group) is exposed to the new advertisement campaign, while the other region (the control group) is not. After a designated period, if the region exposed to the ads shows a significant surge in Big Mac sales compared to the control region, it could indicate a causal relationship between the advertisement and sales.*
 
