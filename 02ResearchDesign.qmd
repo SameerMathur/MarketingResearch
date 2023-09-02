@@ -1,6 +1,6 @@
 # Marketing Research Design
 
-*Sep 02, 2023*
+*Sep 02, 2023.*
 
 -   Marketing research design is the process of developing **a plan or framework for conducting market research** to address specific research objectives.
 
@@ -35,6 +35,8 @@ An effective marketing research design helps companies to **make informed decisi
 ### *Coke vs. Pepsi Taste Test*
 
 *The "Pepsi Taste Test," commonly known as the "Pepsi Challenge," was a marketing campaign started by PepsiCo in the 1970s. It was a blind taste test wherein participants would be given two unmarked cups: one containing Coca-Cola and the other containing Pepsi. They were then asked to determine which one they preferred.*
+
+*Please see Appendix A1 for a sample survey*
 
 ***1. Clearly Defined Research Question:** The central question for the Pepsi vs. Coke taste test was straightforward and specific: **"Which soft drink do consumers prefer in a blind taste test: Pepsi or Coke?"***
 
@@ -293,7 +295,7 @@ Descriptive research can be sub-classified into two main types based on the time
 
 -   **Panel studies**: Panel studies are used to examine **changes in the same individuals over time**. Panel studies involve selecting a sample of individuals and collecting data from them at multiple time points. The purpose is to track changes in the behavior, health, or other characteristics of the same individuals over time. \[8\]
 
-### ***McDonald's -- Descriptive Research*** 
+### ***McDonald's -- Descriptive Research***
 
 -   *Descriptive research, nestled within the broader umbrella of conclusive research, seeks to depict and explain the characteristics of variables within a dataset, usually without influencing them.*
 
@@ -553,9 +555,78 @@ Flick, U. (2015). Introducing research methodology: A beginner's guide to doing 
 
 Yadav, S. B. (2015). Research methodology: A step-by-step guide for beginners. International Journal of Interdisciplinary and Multidisciplinary Studies, 2(5), 71-77.
 
-### Appendix
+# Appendices
 
-### Advantages and Disadvantages of Longitudinal versus Cross-Sectional research design
+
+## Appendix A1: Pepsi Taste Test
+
+---
+
+**PEPSI CHALLENGE TASTE TEST QUESTIONNAIRE**
+
+*Thank you for participating in today's Pepsi Challenge. Your feedback is valuable to us. Please take a few minutes to complete this questionnaire.*
+
+---
+
+**PARTICIPANT DETAILS**  
+*(Optional, but helps us understand our data better.)*
+
+1. **Age:** ________  
+2. **Gender:**  
+   [ ] Male  
+   [ ] Female  
+   [ ] Prefer not to say  
+   [ ] Other: ________
+3. **How often do you drink soda?**  
+   [ ] Daily  
+   [ ] Weekly  
+   [ ] Monthly  
+   [ ] Rarely  
+   [ ] Never
+
+---
+
+**TASTE TEST**
+
+4. **You were given two samples, A and B. Which one did you prefer?**  
+   [ ] Sample A  
+   [ ] Sample B  
+   [ ] No Preference
+
+5. **Please describe why you preferred your chosen sample.**  
+   [ ] Sweeter  
+   [ ] Less Sweet  
+   [ ] More Carbonated  
+   [ ] Less Carbonated  
+   [ ] Smoother Taste  
+   [ ] Stronger Flavor  
+   [ ] Other: ________
+
+---
+
+**ADDITIONAL QUESTIONS**
+
+6. **Before today, did you have a preferred cola brand?**  
+   [ ] Yes, I prefer Coca-Cola.  
+   [ ] Yes, I prefer Pepsi.  
+   [ ] Yes, I prefer another brand: ________  
+   [ ] No, I don't have a preference.
+
+7. **Has this taste test changed your preference or perception of Pepsi or Coca-Cola?**  
+   [ ] Yes  
+   [ ] No
+
+8. **Would you like to provide any additional feedback or comments?**  
+
+
+---
+
+*Thank you for your participation!*
+
+---
+
+
+## Appendix A2: Advantages and Disadvantages of Longitudinal versus Cross-Sectional research design
 
 Longitudinal and cross-sectional research designs have different advantages and disadvantages depending on the research question and the purpose of the study. Here are some of the relative advantages and disadvantages of each design:
 

@@ -1,6 +1,6 @@
 # Introduction to Marketing Research
 
-*Aug 21, 2023*
+*Sep 02, 2023.*
 
 ## Definition
 
@@ -47,37 +47,37 @@ Marketing research, fundamentally pivotal for businesses, primarily falls into t
 
 3.  In the realm of marketing research, the distinction between problem-identification and problem-solving research allows businesses to first diagnose their challenges or opportunities and then implement strategies based on concrete data and insights. \[2\]
 
-### **McDonald's** -- Illustrating **Problem-Identification Research**
+### ***McDonald's** -- **Problem-Identification Research***
 
-1.  **Market Potential Research**: **Identifying the potential** of a new market or a new segment.
-    -   **Illustration:** Before introducing its **McVeggie burger** in India, McDonald's gauged the demand for a vegetarian-only menu, catering to a country with a significant vegetarian demographic.
-2.  **Market Share Research**: **Finding out how much of the market** a business owns in comparison to its competitors.
-    -   **Illustration:** McDonald's consistently assesses its **market share** against rivals like Burger King, KFC, and Subway to comprehend its standing in the global fast-food domain.
-3.  **Market Characteristic Research**: Recognizing the **dynamics of a market**, such as seasonality.
-    -   **Illustration:** In regions with pronounced seasonal patterns, McDonald's introduces particular **seasonal menu items**, like the Shamrock Shake around St. Patrick's Day in the U.S.
-4.  **Sales Analysis**: Evaluating **sales performance** to pinpoint areas of weakness or strength.
-    -   **Illustration:** After rolling out the **all-day breakfast menu**, McDonald's analyzed sales to determine which items sold best and the peak times for their popularity.
-5.  **Forecasting**: **Predicting future sales** or market trends based on past data and various factors.
-    -   **Illustration:** Observing the uptick in health consciousness among consumers, McDonald's anticipated a surge in demand for healthier menu choices, leading to the addition of salads, fruit options, and lean meat selections.
-6.  **Image Studies**: Grasping the **image of a brand** or company as perceived by consumers.
-    -   **Illustration:** McDonald's often undertakes **brand perception studies**. Identifying a gap in how consumers viewed their food quality, they initiated a transparency campaign to address misconceptions about their ingredients and sourcing.
+1.  ***Market Potential Research**: **Identifying the potential** of a new market or a new segment.*
+    -   ***Illustration:** Before introducing its **McVeggie burger** in India, McDonald's gauged the demand for a vegetarian-only menu, catering to a country with a significant vegetarian demographic.*
+2.  ***Market Share Research**: **Finding out how much of the market** a business owns in comparison to its competitors.*
+    -   ***Illustration:** McDonald's consistently assesses its **market share** against rivals like Burger King, KFC, and Subway to comprehend its standing in the global fast-food domain.*
+3.  ***Market Characteristic Research**: Recognizing the **dynamics of a market**, such as seasonality.*
+    -   ***Illustration:** In regions with pronounced seasonal patterns, McDonald's introduces particular **seasonal menu items**, like the Shamrock Shake around St. Patrick's Day in the U.S.*
+4.  ***Sales Analysis**: Evaluating **sales performance** to pinpoint areas of weakness or strength.*
+    -   ***Illustration:** After rolling out the **all-day breakfast menu**, McDonald's analyzed sales to determine which items sold best and the peak times for their popularity.*
+5.  ***Forecasting**: **Predicting future sales** or market trends based on past data and various factors.*
+    -   ***Illustration:** Observing the uptick in health consciousness among consumers, McDonald's anticipated a surge in demand for healthier menu choices, leading to the addition of salads, fruit options, and lean meat selections.*
+6.  ***Image Studies**: Grasping the **image of a brand** or company as perceived by consumers.*
+    -   ***Illustration:** McDonald's often undertakes **brand perception studies**. Identifying a gap in how consumers viewed their food quality, they initiated a transparency campaign to address misconceptions about their ingredients and sourcing.*
 
-### **McDonald's** -- Illustrating **Problem-Solving Research**
+### ***McDonald's** -- **Problem-Solving Research***
 
-1.  **Segmentation Research**: Discerning distinct **segments within a market** to hone targeting.
-    -   **Illustration:** McDonald's recognized a growing segment of health-conscious consumers, leading to the introduction of their **"Favorites Under 400 Calories"** menu in certain markets.
-2.  **Product Research**: Reviewing **product design**, packaging, and modifications. This encompasses testing of new product ideas.
-    -   **Illustration:** Before the global launch of the **McPlant**, a plant-based burger, McDonald's tested its taste, texture, and consumer reception in select locations.
-3.  **Pricing Research**: Pinpointing the **optimal price point** for an offering.
-    -   **Illustration:** McDonald's uses various **pricing strategies** depending on the region. In some areas, they've introduced a value menu or tiered pricing to cater to varying customer spending capacities.
-4.  **Promotion Research**: Measuring the efficacy of **advertising**, sales promotions, and other marketing communications.
-    -   **Illustration:** McDonald's regularly reviews the performance of its promotional campaigns. For instance, they gauge the impact and reach of their annual **Monopoly promotion** to determine its return on investment.
-5.  **Distribution Research**: Identifying the most potent channels to **distribute a product or service**.
-    -   **Illustration:** McDonald's continually optimizes its distribution strategy. They've experimented with formats beyond traditional restaurants, such as **McDrive** for drive-throughs or **McCafé** counters in urban areas.
-6.  **Positioning Research**: Grasping how a product or brand is perceived vis-à-vis competitors and strategizing its favorable positioning.
-    -   **Illustration:** McDonald's emphasizes its position as a family-friendly fast-food destination. Through **positioning research**, they realized the need to promote their commitment to quality ingredients, leading to the **"Our Food, Your Questions"** campaign to address consumer concerns transparently.
+1.  ***Segmentation Research**: Discerning distinct **segments within a market** to hone targeting.*
+    -   ***Illustration:** McDonald's recognized a growing segment of health-conscious consumers, leading to the introduction of their **"Favorites Under 400 Calories"** menu in certain markets.*
+2.  ***Product Research**: Reviewing **product design**, packaging, and modifications. This encompasses testing of new product ideas.*
+    -   ***Illustration:** Before the global launch of the **McPlant**, a plant-based burger, McDonald's tested its taste, texture, and consumer reception in select locations.*
+3.  ***Pricing Research**: Pinpointing the **optimal price point** for an offering.*
+    -   ***Illustration:** McDonald's uses various **pricing strategies** depending on the region. In some areas, they've introduced a value menu or tiered pricing to cater to varying customer spending capacities.*
+4.  ***Promotion Research**: Measuring the efficacy of **advertising**, sales promotions, and other marketing communications.*
+    -   ***Illustration:** McDonald's regularly reviews the performance of its promotional campaigns. For instance, they gauge the impact and reach of their annual **Monopoly promotion** to determine its return on investment.*
+5.  ***Distribution Research**: Identifying the most potent channels to **distribute a product or service**.*
+    -   ***Illustration:** McDonald's continually optimizes its distribution strategy. They've experimented with formats beyond traditional restaurants, such as **McDrive** for drive-throughs or **McCafé** counters in urban areas.*
+6.  ***Positioning Research**: Grasping how a product or brand is perceived vis-à-vis competitors and strategizing its favorable positioning.*
+    -   ***Illustration:** McDonald's emphasizes its position as a family-friendly fast-food destination. Through **positioning research**, they realized the need to promote their commitment to quality ingredients, leading to the **"Our Food, Your Questions"** campaign to address consumer concerns transparently.*
 
-These illustrations provide a snapshot of how McDonald's may employ problem-solving research in their marketing strategy. The brand's global presence offers a myriad of examples spanning these research areas.
+*These illustrations provide a snapshot of how McDonald's may employ problem-solving research in their marketing strategy. The brand's global presence offers a myriad of examples spanning these research areas.*
 
 ## Differences between Problem Solving Research and Problem Identification Research
 
@@ -111,21 +111,21 @@ The **Marketing Research Process** is a six-step framework used by marketers to 
 
 **(vi) Step 6: Report Preparation and Presentation:** The findings are compiled into a comprehensive report which is then presented to the stakeholders. This report not only showcases the results but also provides **interpretations** and **recommendations** based on the research findings. Effective presentation ensures that the insights are clearly understood and actionable. \[2\]
 
-### McDonald's -- Illustrating the Marketing Research Process
+### *McDonald's -- Illustrating the Marketing Research Process*
 
-Using the **Marketing Research Process**, let's critically evaluate **McDonald's** approach to addressing a **sales decline**:
+*Using the **Marketing Research Process**, let's critically evaluate **McDonald's** approach to addressing a **sales decline**:*
 
-**(i) Step 1: Problem Definition:** McDonald's observed an unanticipated **drop in the sales** of its iconic **Big Mac** in certain areas (Smith et al., 2020). Rather than making immediate amendments, they opted to probe the **underlying factors**. The question raised was: "Are there **evolving consumer behaviors** or external challenges affecting the Big Mac's popularity in this region?"
+***(i) Step 1: Problem Definition:** McDonald's observed an unanticipated **drop in the sales** of its iconic **Big Mac** in certain areas (Smith et al., 2020). Rather than making immediate amendments, they opted to probe the **underlying factors**. The question raised was: "Are there **evolving consumer behaviors** or external challenges affecting the Big Mac's popularity in this region?"*
 
-**(ii) Step 2: Development of an Approach to the Problem:** To unpack the issue, McDonald's embarked on an initial **exploration**, assessing **rival campaigns**, consumer feedback on platforms like **Twitter and Facebook**, and emerging **dietary shifts** (Jones & Williams, 2021). This process aimed to sift out potential drivers of the observed change.
+***(ii) Step 2: Development of an Approach to the Problem:** To unpack the issue, McDonald's embarked on an initial **exploration**, assessing **rival campaigns**, consumer feedback on platforms like **Twitter and Facebook**, and emerging **dietary shifts** (Jones & Williams, 2021). This process aimed to sift out potential drivers of the observed change.*
 
-**(iii) Step 3: Research Design Formulation:** Based on the preliminary findings, McDonald's integrated both **qualitative and quantitative research methods**. They initiated **focus group discussions** to capture nuanced perceptions, and then scaled up with a detailed **survey**, targeting their regular patrons and random walk-ins (Lee, 2022).
+***(iii) Step 3: Research Design Formulation:** Based on the preliminary findings, McDonald's integrated both **qualitative and quantitative research methods**. They initiated **focus group discussions** to capture nuanced perceptions, and then scaled up with a detailed **survey**, targeting their regular patrons and random walk-ins (Lee, 2022).*
 
-**(iv) Step 4: Fieldwork or Data Collection:** Structured dialogues were held at strategic locations to gather firsthand **consumer sentiments**. Post these interactions, a meticulously curated **questionnaire** was distributed across the target audience through various channels, aspiring to crystallize the **root causes** behind the sales anomaly (Taylor, 2021).
+***(iv) Step 4: Fieldwork or Data Collection:** Structured dialogues were held at strategic locations to gather firsthand **consumer sentiments**. Post these interactions, a meticulously curated **questionnaire** was distributed across the target audience through various channels, aspiring to crystallize the **root causes** behind the sales anomaly (Taylor, 2021).*
 
-**(v) Step 5: Data Preparation and Analysis:** Upon gathering the data, McDonald's research team embarked on a two-pronged approach. The qualitative findings from discussions were systematically **classified**, while survey data were processed using **advanced analytical tools**. Patterns, **underlying correlations**, and standout insights were extracted, offering a granular view of the situation (Davis & Thompson, 2022).
+***(v) Step 5: Data Preparation and Analysis:** Upon gathering the data, McDonald's research team embarked on a two-pronged approach. The qualitative findings from discussions were systematically **classified**, while survey data were processed using **advanced analytical tools**. Patterns, **underlying correlations**, and standout insights were extracted, offering a granular view of the situation (Davis & Thompson, 2022).*
 
-**(vi) Step 6: Report Preparation and Presentation:** The insights were synthesized into a detailed **report**, enriched with visual aids like **graphs and infographics**. The analysis pinpointed an upswing in **health-centric eating habits** in the region, coupled with aggressive promotions by rivals touting "nutritious" offerings (Martin, 2023). Proposed action steps could encompass the **reinvention of the Big Mac**, recalibrating **marketing narratives**, or introducing short-term offers to regain traction. This comprehensive dossier was subsequently tabled before the **decision-makers** for informed strategizing. \[3\]
+***(vi) Step 6: Report Preparation and Presentation:** The insights were synthesized into a detailed **report**, enriched with visual aids like **graphs and infographics**. The analysis pinpointed an upswing in **health-centric eating habits** in the region, coupled with aggressive promotions by rivals touting "nutritious" offerings (Martin, 2023). Proposed action steps could encompass the **reinvention of the Big Mac**, recalibrating **marketing narratives**, or introducing short-term offers to regain traction. This comprehensive dossier was subsequently tabled before the **decision-makers** for informed strategizing.* \[3\]
 
 # References
 

@@ -1,17 +1,22 @@
-# Overview of this Book {.unnumbered}
-
-*Aug 24, 2023*
+# Overview {.unnumbered}
+*Sep 02, 2023*
 
 Delve into the world of Marketing Research..
 
 
-PART 1: Marketing Research Concepts
+**Part 1: MARKETING RESEARCH CONCEPTS**
 
-Chapter 1: Overview of Marketing Research
+**Chapter 1: Introduction to Marketing Research**
 
-Chapter 2: Research Design
+This chapter provides an overview of Marketing Research. Marketing research is a tool that businesses use to collect information to better connect with their customers. This information can help identify business opportunities or challenges, guide decisions, monitor performance, and deepen understanding of the research process. There are two main kinds: Problem-Identification Research (which spots potential issues or opportunities) and Problem-Solving Research (which finds solutions or strategies for those issues or opportunities). For example, before introducing a veggie burger in India, McDonald's used research to see if there was demand. They also compare their popularity with rivals like Burger King and once used research to understand a drop in Big Mac sales, discovering a shift towards healthier eating. The process of conducting this research usually involves six steps: defining the problem, selecting a research method, designing the research, collecting data, analyzing data, and then reporting findings. Through this, businesses can make informed decisions based on what the market wants or needs.
 
-PART 2: Marketing Research Methods
 
-*<coming soon>*
+**Chapter 2: Marketing Research Design**
+
+This chapter reviews Marketing Research Designs, which serve as structured plans guiding data collection and interpretation processes, ultimately ensuring results are reliable, relevant, and valid for decision-making. Research designs can be primarily classified into exploratory, which seeks initial insights on unfamiliar topics, and conclusive, which aims for definitive answers. Within conclusive research, two core categories emerge: descriptive and causal. Descriptive research, further sub-divided into cross-sectional and longitudinal designs, sketches out characteristics of a given population or phenomenon. Causal research, on the other hand, delves into understanding cause-and-effect relationships between variables. It employs methods like Experimental Design and Regression Analysis to evaluate how changing one variable impacts another. Key tools such as SPSS, R, or Python aid in these analyses. The essence of research design is its ability to provide businesses with insights to inform decisions and frame strategies, and its structure depends on the nature and objectives of the research in question.
+
+
+**PART 2: MARKETING RESEARCH METHODS**
+
+*coming soon*
 
