@@ -1,6 +1,6 @@
 # Marketing Research Design
 
-*Aug 31, 2023*
+*Sep 02, 2023*
 
 -   Marketing research design is the process of developing **a plan or framework for conducting market research** to address specific research objectives.
 
@@ -16,7 +16,7 @@
 
 1.  **Clearly Defined Research Question:** The foundation of a strong research design lies in a concise and specific question or hypothesis.
 
-2.  **Appropriate Research Method:** The design should employ a suitable method, be it surveys, experiments, case studies, or observational studies, based on the research question and aims.
+2.  **Appropriate Research Method:** The design should employ a suitable method, be it (i) surveys, (ii) experiments, or (iii) observational studies, based on the research question and aims.
 
 3.  **Appropriate Sampling Method:** The chosen sampling technique should aptly represent the target audience and minimize biases. This could range from random sampling, stratified sampling, to convenience sampling.
 
@@ -24,9 +24,9 @@
 
 5.  **Adequate Sample Size:** The sample size should be sufficient, ensuring statistical significance and the capacity to identify impactful effects or variances.
 
-6.  **Data Analysis Plan:** The design should encompass a fitting data analysis strategy, whether it's descriptive statistics, regression analysis, or content analysis, tailored to the research method and the gathered data.
+6.  **Data Analysis Plan:** The design should encompass a fitting data analysis strategy, whether it's **(i) descriptive statistics, (ii) regression analysis, or (iii) content analysis**, tailored to the research method and the gathered data.
 
-7.  **Timeliness and Feasibility:** The design should be realistic, allowing for the research to be conducted within the given resources and timeframe, all while yielding substantial and credible outcomes.
+7.  **Timeliness and Feasibility:** The design should be realistic, allowing for the research to be conducted within the given **resources** and **timeframe**, all while yielding substantial and credible outcomes.
 
 8.  **Ethical Considerations:** The design should prioritize ethics, ensuring informed consent, participant privacy, confidentiality, and the welfare of the participants.
 
@@ -34,9 +34,11 @@ An effective marketing research design helps companies to **make informed decisi
 
 ### *Coke vs. Pepsi Taste Test*
 
-*Let us use the famous study on the "Pepsi vs. Coke" taste tests as an example to illustrate these characteristics of an effective research design.*
+*The "Pepsi Taste Test," commonly known as the "Pepsi Challenge," was a marketing campaign started by PepsiCo in the 1970s. It was a blind taste test wherein participants would be given two unmarked cups: one containing Coca-Cola and the other containing Pepsi. They were then asked to determine which one they preferred.*
 
-***1. Clearly Defined Research Question:** The central question for the Pepsi vs. Coke taste test was straightforward and specific: "Which soft drink do consumers prefer in a blind taste test: Pepsi or Coke?" **2. Appropriate Research Method:** Blind taste tests were conducted where participants didn't know which soda they were drinking. This falls under experimental research.*
+***1. Clearly Defined Research Question:** The central question for the Pepsi vs. Coke taste test was straightforward and specific: **"Which soft drink do consumers prefer in a blind taste test: Pepsi or Coke?"***
+
+***2. Appropriate Research Method:** Blind taste tests were conducted where participants didn't know which soda they were drinking. This was an example of experimental research.*
 
 ***3. Appropriate Sampling Method:** The participants in the taste test were generally a diverse set of consumers to represent a broader population. However, for this illustration, let's assume a random sampling was used.*
 
@@ -50,7 +52,13 @@ An effective marketing research design helps companies to **make informed decisi
 
 ***8. Ethical Considerations:** Participants provided their taste preferences without any potential harm, and their personal data was protected, ensuring ethical soundness.*
 
-*The Pepsi vs. Coke taste test research provided actionable insights that both companies used in their marketing strategies. For instance, Coca-Cola responded with the controversial "New Coke" based on such research. This illustrates how effective marketing research design aids companies in making informed decisions, creating effective marketing strategies, and maintaining competitiveness.* \[3\]
+*The Pepsi vs. Coke taste test research provided actionable insights that both companies used in their marketing strategies.*
+
+-   *In many of these tests, more participants reportedly preferred the taste of Pepsi over Coca-Cola. This finding led to a series of advertisements for Pepsi, highlighting their victory in these challenges.*
+
+-   *The Pepsi Challenge can be credited with pushing Coca-Cola into one of its most infamous decisions: the introduction of "New Coke" in 1985. New Coke was a reformulation of the original Coca-Cola recipe, intended to make the drink more palatable and competitive with Pepsi. However, the public's reaction to New Coke was overwhelmingly negative, leading Coca-Cola to reintroduce its original recipe as "Coca-Cola Classic."*
+
+*This illustrates how effective marketing research design aids companies in making informed decisions, creating effective marketing strategies, and maintaining competitiveness.* \[3\]
 
 ## Classifications of Research Design
 
@@ -62,9 +70,11 @@ Research design can be classified into three main types based on their purpose:
 
 1.  **Exploratory research design**: used to **explore a research problem when there is limited or no prior knowledge** or understanding of it.
 
-2.  **Descriptive research design**: used to describe or **summarize characteristics** of a population or phenomenon, such as market trends, customer behavior, or demographic data.
+2.  **Conclusive research design,** which can be sub-classified as
 
-3.  **Causal research design**: used to establish **cause-and-effect relationships** between variables.
+    1.  **Descriptive research design**: used to describe or **summarize characteristics** of a population or phenomenon, such as market trends, customer behavior, or demographic data.
+
+    2.  **Causal research design**: used to establish **cause-and-effect relationships** between variables.
 
 ### Based on time frame:
 
@@ -104,25 +114,27 @@ Research design can also be classified based on the data analysis method:
 
 In summary, research design can be classified based on various criteria, such as purpose, time frame, data collection method, and data analysis method. The choice of research design depends on the research question, the nature of the research problem, and the goals of the research. \[4\]
 
-### *Facebook's Emotional Contagion Study*
+### *Facebook's "Emotional Contagion" Study*
 
 ***Overview***
 
-1.  *Facebook's emotional contagion study, conducted in 2012 and later published in 2014 set out to understand whether emotions can spread among users through the content of the social media posts they see.*
+1.  *Facebook's emotional contagion study, conducted in 2012 and later published in 2014 set out to understand **whether emotions can spread among users through the content of the social media posts they see**.*
 
-2.  *Over a week, the research manipulated the News Feeds of nearly 700,000 Facebook users. Some users were shown content with more positive emotional words, while others were exposed to content with more negative emotional words. The study aimed to assess if these users would subsequently post more positive or negative content themselves based on what they were exposed to.*
+2.  *Over a week, the research manipulated the News Feeds of nearly 700,000 Facebook users. Some users were shown content with more positive emotional words, while others were exposed to content with more negative emotional words. The study aimed to **assess if these users would subsequently post more positive or negative content themselves based on what they were exposed to**.*
 
-3.  *The study found that users who were exposed to more negative content were marginally more likely to post negative status updates, while those exposed to positive content were somewhat more likely to post positive status updates. The researchers claimed this as evidence of emotional contagion, suggesting emotions can be spread indirectly via online social networks.*
+3.  *The study found that users who were exposed to more negative content were **marginally more likely** to post negative status updates, while those exposed to positive content were somewhat more likely to post positive status updates. The researchers claimed this as evidence of emotional contagion, suggesting emotions can be spread indirectly via online social networks.*
 
-4.  *What made this study particularly controversial was the lack of informed consent. Users were not aware that their News Feeds were being manipulated for research purposes, raising significant ethical concerns. The uproar that followed led to discussions on the balance between research and user privacy in the digital age. \[5\]*
+4.  *What made this study particularly controversial was the **lack of informed consent**. Users were not aware that their News Feeds were being manipulated for research purposes, raising significant ethical concerns. The uproar that followed led to discussions on the balance between research and user privacy in the digital age. \[5\]*
 
 -   ***Based on purpose:***
 
 1.  ***Exploratory research design:** In the early days of social media, researchers might have conducted exploratory studies to understand user behavior, motivations, and attitudes towards such platforms without much prior information.*
 
-2.  ***Descriptive research design:** A study might describe the average amount of time users spend on Facebook daily or weekly. Or, a study might summarize the demographic breakdown of Facebook users.*
+2.  ***Conclusive research design**, which can be sub-classified into two main types:*
 
-3.  ***Causal research design:** Facebook's emotional contagion study is an example. Researchers manipulated the number of positive or negative posts users saw to determine if it affected the user's own posts, seeking a cause-and-effect relationship.*
+    -   ***Descriptive research design:** A study might describe the average amount of time users spend on Facebook daily or weekly. Or, a study might summarize the demographic breakdown of Facebook users.*
+
+    -   ***Causal research design:** Facebook's emotional contagion study is an example. Researchers manipulated the number of positive or negative posts users saw to determine if it affected the user's own posts, seeking a cause-and-effect relationship.*
 
 -   ***Based on time frame:***
 
@@ -202,8 +214,8 @@ To sum it up, while exploratory research seeks to discover and form hypotheses, 
 
 ***Scenario**:*
 
--   *Imagine that McDonald's observed a decline in their sales in a particular region.*
--   *They're not sure about the underlying causes, and the current data on hand does not offer clear answers.*
+-   *Imagine that **McDonald's observed a decline in their sales in a particular region**.*
+-   *They are unsure about the underlying causes, and the current data on hand does not offer clear answers.*
 -   *In this case, instead of diving into a detailed quantitative study immediately, McDonald's might opt for an exploratory research design to understand the potential reasons behind the sales slump.*
 
 1.  ***Interviews with Customers**:*
@@ -227,7 +239,7 @@ To sum it up, while exploratory research seeks to discover and form hypotheses, 
 
 ***Discussion***
 
--   *The value of this exploratory research for McDonald's lies in its flexibility and depth.*
+-   *The value of such exploratory research for McDonald's lies in its **flexibility** and **depth**.*
 
 -   *It provides a qualitative understanding of the problem, offering rich insights that can't be captured through mere numbers.*
 
@@ -281,7 +293,7 @@ Descriptive research can be sub-classified into two main types based on the time
 
 -   **Panel studies**: Panel studies are used to examine **changes in the same individuals over time**. Panel studies involve selecting a sample of individuals and collecting data from them at multiple time points. The purpose is to track changes in the behavior, health, or other characteristics of the same individuals over time. \[8\]
 
-### ***McDonald's -- Descriptive Research Illustration***
+### ***McDonald's -- Descriptive Research*** 
 
 -   *Descriptive research, nestled within the broader umbrella of conclusive research, seeks to depict and explain the characteristics of variables within a dataset, usually without influencing them.*
 
@@ -289,25 +301,25 @@ Descriptive research can be sub-classified into two main types based on the time
 
 *Let's explore this concept using the McDonald's brand for clarity.*
 
-***Scenario**: Suppose McDonald's wants to comprehend the **breakfast** consumption habits of its customers across different age groups in a particular city.*
+***Scenario**: Suppose McDonald's wants to comprehend the **breakfastconsumption habitsof its customers across different age groups in a particular city**.*
 
 1.  ***Surveys and Questionnaires**:*
 
-    -   *McDonald's might deploy structured surveys across various outlets during breakfast hours.*
+    -   *McDonald's might deploy **structured surveys** across various outlets during breakfast hours.*
 
-    -   *This tool could probe into customers' favorite breakfast items, the frequency of their breakfast visits in a week, and their preferred time for breakfast.*
+    -   *This tool could probe into **customers' favorite breakfast items**, the frequency of their breakfast visits in a week, and their preferred time for breakfast.*
 
     -   *Through these surveys, McDonald's could identify that, for instance, millennials predominantly prefer the Egg McMuffin, while the older age group might lean towards the Hotcakes.*
 
 2.  ***Observational Studies**:*
 
-    -   *Researchers might be stationed at select McDonald's outlets to note the flow of customers, specifically observing which age groups are more likely to consume breakfast at McDonald's.*
+    -   *Researchers might be stationed at select McDonald's outlets to note the flow of customers, specifically **observing which age groups are more likely to consume breakfast at McDonald's**.*
 
     -   *Observationally, it might be discerned that the outlets are busiest with younger clientele between 7 am to 8 am, perhaps before they head to work or college.*
 
 3.  ***Usage of Existing Records**:*
 
-    -   *McDonald's could mine its sales data, examining which breakfast items sell the most during specific hours and to specific customer demographics, if that data is available.*
+    -   *McDonald's could **mine its sales data**, examining which breakfast items sell the most during specific hours and to specific customer demographics, if that data is available.*
 
     -   *From this, they might discern that sales of coffee surge post 8:30 am, possibly indicating a second wave of customers seeking a caffeine fix.*
 
