@@ -42,6 +42,7 @@ website:
         text: Overview
       - 01OverviewOfMR.qmd
       - 02ResearchDesign.qmd
+      - 03ANOVAinMR.qmd
 
 ### END yaml FOR BOOK'S WEBSITE ###
 
