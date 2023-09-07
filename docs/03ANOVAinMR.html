@@ -165,7 +165,12 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#one-way-anova" id="toc-one-way-anova" class="nav-link" data-scroll-target="#one-way-anova">One-Way ANOVA</a></li>
   <li><a href="#marketing-applications-of-one-way-anova" id="toc-marketing-applications-of-one-way-anova" class="nav-link" data-scroll-target="#marketing-applications-of-one-way-anova">Marketing Applications of One-Way ANOVA</a></li>
-  <li><a href="#one-way-anova-in-spss" id="toc-one-way-anova-in-spss" class="nav-link" data-scroll-target="#one-way-anova-in-spss">One-Way ANOVA in SPSS</a></li>
+  <li><a href="#understanding-one-way-anova-using-mtcars-data" id="toc-understanding-one-way-anova-using-mtcars-data" class="nav-link" data-scroll-target="#understanding-one-way-anova-using-mtcars-data">Understanding one-way ANOVA using mtcars data</a></li>
+  <li><a href="#understanding-one-way-anova-using-mtcars-data-1" id="toc-understanding-one-way-anova-using-mtcars-data-1" class="nav-link" data-scroll-target="#understanding-one-way-anova-using-mtcars-data-1">Understanding one-way ANOVA using mtcars data</a>
+  <ul class="collapse">
+  <li><a href="#one-way-anova-process" id="toc-one-way-anova-process" class="nav-link" data-scroll-target="#one-way-anova-process">One-Way ANOVA Process</a></li>
+  </ul></li>
+  <li><a href="#running-one-way-anova-in-spss" id="toc-running-one-way-anova-in-spss" class="nav-link" data-scroll-target="#running-one-way-anova-in-spss">Running One-Way ANOVA in SPSS</a></li>
   </ul></li>
   <li><a href="#two-way-anova" id="toc-two-way-anova" class="nav-link" data-scroll-target="#two-way-anova">Two-Way ANOVA</a>
   <ul class="collapse">
@@ -204,8 +209,68 @@ ul.task-list li input[type="checkbox"] {
 <li>Price sensitivity: One-way ANOVA can be used to determine if there is a significant difference in the price sensitivity of customers in different regions or with different demographics.</li>
 </ul>
 </section>
-<section id="one-way-anova-in-spss" class="level2">
-<h2 class="anchored" data-anchor-id="one-way-anova-in-spss">One-Way ANOVA in SPSS</h2>
+<section id="understanding-one-way-anova-using-mtcars-data" class="level2">
+<h2 class="anchored" data-anchor-id="understanding-one-way-anova-using-mtcars-data">Understanding one-way ANOVA using mtcars data</h2>
+<p>The <code>mtcars</code> dataset provides data extracted from the 1974 Motor Trend US magazine, presenting specifications and performance tests for various 1973-74 car models.</p>
+<p><strong>Overview of the mtcars dataset</strong>:</p>
+<ol type="1">
+<li><strong>Number of Rows</strong>: 32 (representing 32 car models)</li>
+<li><strong>Number of Columns</strong>: 11 (each representing a specific attribute or measurement)</li>
+</ol>
+<p><strong>Variables in the dataset</strong>: 1. <code>mpg</code>: Miles/(US) gallon (fuel efficiency) 2. <code>cyl</code>: Number of cylinders 3. <code>disp</code>: Displacement (cu.in.) 4. <code>hp</code>: Gross horsepower 5. <code>drat</code>: Rear axle ratio 6. <code>wt</code>: Weight (in 1000 lbs.) 7. <code>qsec</code>: 1/4 mile time (in seconds) 8. <code>vs</code>: Engine (0 = V-shaped, 1 = straight) 9. <code>am</code>: Transmission (0 = automatic, 1 = manual) 10. <code>gear</code>: Number of forward gears 11. <code>carb</code>: Number of carburetors</p>
+<p><strong>Sample cars in the dataset</strong>: Mazda RX4, Hornet 4 Drive, Duster 360, Merc 240D, and so on.</p>
+<p>Motor Trend Magazine. (1974). Motor Trend 1974 Car Road Tests. Los Angeles: Petersen Publishing Co.</p>
+</section>
+<section id="understanding-one-way-anova-using-mtcars-data-1" class="level2">
+<h2 class="anchored" data-anchor-id="understanding-one-way-anova-using-mtcars-data-1">Understanding one-way ANOVA using mtcars data</h2>
+<ol type="1">
+<li><p>Recall that One-way ANOVA is a statistical technique used to ascertain if there are notable differences in the means of three or more independent groups. In essence, it lets you compare the averages of these groups to see if they’re really different or if the observed differences could just be due to random chance.</p></li>
+<li><p>The <code>mtcars</code> dataset comprises various specifications and performance metrics for 32 car models from the 1970s. For this illustration, let’s take a hypothetical scenario where we wish to analyze whether cars’ fuel efficiency (measured in miles per gallon or mpg) varies based on the number of gears a car possesses. The dataset categorizes cars as having 3, 4, or 5 gears.</p></li>
+</ol>
+<section id="one-way-anova-process" class="level3">
+<h3 class="anchored" data-anchor-id="one-way-anova-process">One-Way ANOVA Process</h3>
+<ol type="1">
+<li><strong>Setting the Hypotheses</strong>:
+<ul>
+<li><strong>Null Hypothesis (H0)</strong>: The average fuel efficiency (mpg) remains constant across cars, irrespective of whether they have 3, 4, or 5 gears.</li>
+<li><strong>Alternative Hypothesis (HA)</strong>: The average fuel efficiency varies for at least one of the gear categories.</li>
+</ul></li>
+<li><strong>Understanding Variance</strong>:
+<ul>
+<li><strong>Between-group Variance</strong>: This reflects how much each group’s average (mean) deviates from the overall average of all groups. If the between-group variance is substantially larger than the within-group variance, it could indicate that the gear types impact fuel efficiency.</li>
+<li><strong>Within-group Variance</strong>: Represents the variability of individual observations from their respective group’s average.</li>
+</ul></li>
+<li><strong>Computing the F-Statistic</strong>:
+<ul>
+<li>The F-statistic is a crucial value in ANOVA. It’s calculated by taking the ratio of between-group variance to the within-group variance. A high F-statistic suggests that the groups (in this case, gear types) are distinct from each other in terms of their averages more than one would expect by random chance.</li>
+</ul></li>
+</ol>
+<p>Once you compute the F-statistic from your data, you refer to the F-distribution (a theoretical probability distribution) to determine the p-value associated with that F-statistic, given the degrees of freedom of the test. The degrees of freedom depend on the number of groups and the number of observations in the groups.</p>
+<ol start="4" type="1">
+<li><strong>p-value</strong>:</li>
+</ol>
+<p>The p-value is a probability that provides context for the F-statistic. Specifically, it answers the question: “If there were no real differences between the groups (i.e., the null hypothesis is true), how likely would I observe an F-statistic as extreme as, or more extreme than, the one I calculated from my data?”</p>
+<p><strong>Low p-value (typically ≤ 0.05)</strong>: This suggests that the observed data (and the resultant F-statistic) is unlikely under the assumption that the null hypothesis is true. In other words, if you get a low p-value, it’s evidence against the null hypothesis, and you might decide to reject the null hypothesis in favor of the alternative hypothesis, which posits that there’s a difference between the groups.</p>
+<p><strong>High p-value</strong>: This suggests that the observed data (and the F-statistic) is plausible under the null hypothesis. You would not reject the null hypothesis, implying you haven’t found strong enough evidence to say that the group means are different.</p>
+<ol start="5" type="1">
+<li><strong>Assessing the Result</strong>:
+<ul>
+<li>To determine if the observed differences (or lack thereof) are statistically significant, the F-statistic is compared to a threshold value from the F-distribution. If the F-statistic is sufficiently high, we reject the null hypothesis, implying there’s a significant difference in mpg across the gear types.</li>
+</ul></li>
+</ol>
+<p>Performing a one-way ANOVA on the <code>mtcars</code> dataset might reveal that the number of gears in cars does (or does not) significantly influence their average fuel efficiency.</p>
+<p>If differences are found, further analyses would be needed to pinpoint where these differences lie.</p>
+<ol start="6" type="1">
+<li><strong>Post-Hoc Analysis</strong>:
+<ul>
+<li>If the ANOVA reveals a significant result, subsequent post-hoc tests can pinpoint which specific gear types exhibit different mpg averages.</li>
+</ul></li>
+</ol>
+<p>The goal of ANOVA is to gauge if the groups being compared have different averages. It doesn’t specify which groups are distinct, which is why follow-up analyses are essential when differences are identified.</p>
+</section>
+</section>
+<section id="running-one-way-anova-in-spss" class="level2">
+<h2 class="anchored" data-anchor-id="running-one-way-anova-in-spss">Running One-Way ANOVA in SPSS</h2>
 <ol type="1">
 <li>You can run a one-way ANOVA (analysis of variance) in SPSS by following these steps:</li>
 </ol>
