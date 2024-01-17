@@ -557,74 +557,71 @@ Yadav, S. B. (2015). Research methodology: A step-by-step guide for beginners. I
 
 # Appendices
 
-
 ## Appendix A1: Pepsi Taste Test
 
----
+------------------------------------------------------------------------
 
 **PEPSI CHALLENGE TASTE TEST QUESTIONNAIRE**
 
 *Thank you for participating in today's Pepsi Challenge. Your feedback is valuable to us. Please take a few minutes to complete this questionnaire.*
 
----
+------------------------------------------------------------------------
 
-**PARTICIPANT DETAILS**  
+**PARTICIPANT DETAILS**\
 *(Optional, but helps us understand our data better.)*
 
-1. **Age:** ________  
-2. **Gender:**  
-   [ ] Male  
-   [ ] Female  
-   [ ] Prefer not to say  
-   [ ] Other: ________
-3. **How often do you drink soda?**  
-   [ ] Daily  
-   [ ] Weekly  
-   [ ] Monthly  
-   [ ] Rarely  
-   [ ] Never
+1.  **Age:** \_\_\_\_\_\_\_\_\
+2.  **Gender:**\
+    \[ \] Male\
+    \[ \] Female\
+    \[ \] Prefer not to say\
+    \[ \] Other: \_\_\_\_\_\_\_\_
+3.  **How often do you drink soda?**\
+    \[ \] Daily\
+    \[ \] Weekly\
+    \[ \] Monthly\
+    \[ \] Rarely\
+    \[ \] Never
 
----
+------------------------------------------------------------------------
 
 **TASTE TEST**
 
-4. **You were given two samples, A and B. Which one did you prefer?**  
-   [ ] Sample A  
-   [ ] Sample B  
-   [ ] No Preference
+4.  **You were given two samples, A and B. Which one did you prefer?**\
+    \[ \] Sample A\
+    \[ \] Sample B\
+    \[ \] No Preference
 
-5. **Please describe why you preferred your chosen sample.**  
-   [ ] Sweeter  
-   [ ] Less Sweet  
-   [ ] More Carbonated  
-   [ ] Less Carbonated  
-   [ ] Smoother Taste  
-   [ ] Stronger Flavor  
-   [ ] Other: ________
+5.  **Please describe why you preferred your chosen sample.**\
+    \[ \] Sweeter\
+    \[ \] Less Sweet\
+    \[ \] More Carbonated\
+    \[ \] Less Carbonated\
+    \[ \] Smoother Taste\
+    \[ \] Stronger Flavor\
+    \[ \] Other: \_\_\_\_\_\_\_\_
 
----
+------------------------------------------------------------------------
 
 **ADDITIONAL QUESTIONS**
 
-6. **Before today, did you have a preferred cola brand?**  
-   [ ] Yes, I prefer Coca-Cola.  
-   [ ] Yes, I prefer Pepsi.  
-   [ ] Yes, I prefer another brand: ________  
-   [ ] No, I don't have a preference.
+6.  **Before today, did you have a preferred cola brand?**\
+    \[ \] Yes, I prefer Coca-Cola.\
+    \[ \] Yes, I prefer Pepsi.\
+    \[ \] Yes, I prefer another brand: \_\_\_\_\_\_\_\_\
+    \[ \] No, I don't have a preference.
 
-7. **Has this taste test changed your preference or perception of Pepsi or Coca-Cola?**  
-   [ ] Yes  
-   [ ] No
+7.  **Has this taste test changed your preference or perception of Pepsi or Coca-Cola?**\
+    \[ \] Yes\
+    \[ \] No
 
-8. **Would you like to provide any additional feedback or comments?**  
+8.  **Would you like to provide any additional feedback or comments?**
 
-
----
+------------------------------------------------------------------------
 
 *Thank you for your participation!*
 
----
-
+------------------------------------------------------------------------
 
 ## Appendix A2: Advantages and Disadvantages of Longitudinal versus Cross-Sectional research design
 

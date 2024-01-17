@@ -1,4 +1,4 @@
-# Analysis of Variance (ANOVA)
+# Marketing Research using ANOVA
 
 *Sep 02, 2023.*
 

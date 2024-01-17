@@ -42,7 +42,8 @@ website:
         text: Overview
       - 01OverviewOfMR.qmd
       - 02ResearchDesign.qmd
-      - 03ANOVAinMR.qmd
+      - 03ExploratoryResearchSecondaryData.qmd
+      - 04ANOVAinMR.qmd
 
 ### END yaml FOR BOOK'S WEBSITE ###
 

@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.3.433">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Marketing Research &amp; Statistics with IBM SPSS</title>
+<title>Marketing Research &amp; Statistics with IBM SPSS – exploratoryresearchsecondarydata</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -100,7 +100,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Overview</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./03ExploratoryResearchSecondaryData.html">Exploratory Research and Secondary Data</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -127,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Overview</span></a>
   </div>
 </li>
@@ -145,14 +145,14 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./03ExploratoryResearchSecondaryData.html" class="sidebar-item-text sidebar-link">
+  <a href="./03ExploratoryResearchSecondaryData.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Exploratory Research and Secondary Data</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./04ANOVAinMR.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Marketing Research using ANOVA</span></a>
+ <span class="menu-text">Marketing Research using Analysis of Variance (ANOVA)</span></a>
   </div>
 </li>
     </ul>
@@ -167,28 +167,157 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#exploratory-research-and-secondary-data" id="toc-exploratory-research-and-secondary-data" class="nav-link active" data-scroll-target="#exploratory-research-and-secondary-data">Exploratory Research and Secondary Data</a>
+  <ul class="collapse">
+  <li><a href="#primary-versus-secondary-data" id="toc-primary-versus-secondary-data" class="nav-link" data-scroll-target="#primary-versus-secondary-data">Primary versus Secondary Data</a>
+  <ul class="collapse">
+  <li><a href="#primary-data" id="toc-primary-data" class="nav-link" data-scroll-target="#primary-data">Primary Data</a></li>
+  <li><a href="#secondary-data" id="toc-secondary-data" class="nav-link" data-scroll-target="#secondary-data">Secondary Data</a></li>
+  <li><a href="#analytical-insight" id="toc-analytical-insight" class="nav-link" data-scroll-target="#analytical-insight">Analytical Insight</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#case-study-utilizing-primary-data-for-mcdonalds-new-vegan-burger-launch" id="toc-case-study-utilizing-primary-data-for-mcdonalds-new-vegan-burger-launch" class="nav-link" data-scroll-target="#case-study-utilizing-primary-data-for-mcdonalds-new-vegan-burger-launch">Case Study: Utilizing Primary Data for McDonald’s New Vegan Burger Launch</a>
+  <ul class="collapse">
+  <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#methodology" id="toc-methodology" class="nav-link" data-scroll-target="#methodology">Methodology</a>
+  <ul class="collapse">
+  <li><a href="#target-audience" id="toc-target-audience" class="nav-link" data-scroll-target="#target-audience">Target Audience</a></li>
+  <li><a href="#data-collection-methods" id="toc-data-collection-methods" class="nav-link" data-scroll-target="#data-collection-methods">Data Collection Methods</a></li>
+  </ul></li>
+  <li><a href="#sample-data" id="toc-sample-data" class="nav-link" data-scroll-target="#sample-data">Sample Data</a></li>
+  <li><a href="#results-and-analysis" id="toc-results-and-analysis" class="nav-link" data-scroll-target="#results-and-analysis">Results and Analysis</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
+  </ul></li>
+  <li><a href="#case-study-leveraging-secondary-data-for-mcdonalds-expansion-into-southeast-asia" id="toc-case-study-leveraging-secondary-data-for-mcdonalds-expansion-into-southeast-asia" class="nav-link" data-scroll-target="#case-study-leveraging-secondary-data-for-mcdonalds-expansion-into-southeast-asia">Case Study: Leveraging Secondary Data for McDonald’s Expansion into Southeast Asia</a>
+  <ul class="collapse">
+  <li><a href="#introduction-1" id="toc-introduction-1" class="nav-link" data-scroll-target="#introduction-1">Introduction</a></li>
+  <li><a href="#methodology-1" id="toc-methodology-1" class="nav-link" data-scroll-target="#methodology-1">Methodology</a>
+  <ul class="collapse">
+  <li><a href="#sources-of-secondary-data" id="toc-sources-of-secondary-data" class="nav-link" data-scroll-target="#sources-of-secondary-data">Sources of Secondary Data</a></li>
+  </ul></li>
+  <li><a href="#sample-data-1" id="toc-sample-data-1" class="nav-link" data-scroll-target="#sample-data-1">Sample Data</a></li>
+  <li><a href="#results-and-analysis-1" id="toc-results-and-analysis-1" class="nav-link" data-scroll-target="#results-and-analysis-1">Results and Analysis</a></li>
+  <li><a href="#conclusion-1" id="toc-conclusion-1" class="nav-link" data-scroll-target="#conclusion-1">Conclusion</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul></li>
   </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="index.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="03ExploratoryResearchSecondaryData.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 
-<section id="overview" class="level1 unnumbered">
-<h1 class="unnumbered">Overview</h1>
-<p><em>Jan 17, 2024.</em></p>
-<p>Delve into the world of Marketing Research..</p>
-<p><strong>Part 1: MARKETING RESEARCH CONCEPTS</strong></p>
-<p><strong>Chapter 1: Introduction to Marketing Research</strong></p>
-<p>This chapter provides an overview of Marketing Research. Marketing research is a tool that businesses use to collect information to better connect with their customers. This information can help identify business opportunities or challenges, guide decisions, monitor performance, and deepen understanding of the research process. There are two main kinds: Problem-Identification Research (which spots potential issues or opportunities) and Problem-Solving Research (which finds solutions or strategies for those issues or opportunities). For example, before introducing a veggie burger in India, McDonald’s used research to see if there was demand. They also compare their popularity with rivals like Burger King and once used research to understand a drop in Big Mac sales, discovering a shift towards healthier eating. The process of conducting this research usually involves six steps: defining the problem, selecting a research method, designing the research, collecting data, analyzing data, and then reporting findings. Through this, businesses can make informed decisions based on what the market wants or needs.</p>
-<p><strong>Chapter 2: Marketing Research Design</strong></p>
-<p>This chapter reviews Marketing Research Designs, which serve as structured plans guiding data collection and interpretation processes, ultimately ensuring results are reliable, relevant, and valid for decision-making. Research designs can be primarily classified into exploratory, which seeks initial insights on unfamiliar topics, and conclusive, which aims for definitive answers. Within conclusive research, two core categories emerge: descriptive and causal. Descriptive research, further sub-divided into cross-sectional and longitudinal designs, sketches out characteristics of a given population or phenomenon. Causal research, on the other hand, delves into understanding cause-and-effect relationships between variables. It employs methods like Experimental Design and Regression Analysis to evaluate how changing one variable impacts another. Key tools such as SPSS, R, or Python aid in these analyses. The essence of research design is its ability to provide businesses with insights to inform decisions and frame strategies, and its structure depends on the nature and objectives of the research in question.</p>
-<p><strong>PART 2: MARKETING RESEARCH METHODS</strong></p>
-<p><em>coming soon</em></p>
+<section id="exploratory-research-and-secondary-data" class="level1">
+<h1>Exploratory Research and Secondary Data</h1>
+<p><em>Sep 21, 2023.</em></p>
+<section id="primary-versus-secondary-data" class="level2">
+<h2 class="anchored" data-anchor-id="primary-versus-secondary-data">Primary versus Secondary Data</h2>
+<p>In the field of marketing research, data gathering is often categorized into two main types: Primary Data and Secondary Data. Both types serve distinct purposes and come with their own advantages and limitations.</p>
+<section id="primary-data" class="level3">
+<h3 class="anchored" data-anchor-id="primary-data">Primary Data</h3>
+<p><strong>Definition:</strong> Primary data refers to information collected directly from original sources for a specific research purpose or project. This data is tailored to the research objectives and is gathered through methods like surveys, interviews, focus groups, experiments, and observations.</p>
+<p><strong>Advantages:</strong> 1. <strong>Relevance:</strong> Because it is collected for the research objectives at hand, primary data is highly relevant. 2. <strong>Up-to-Date:</strong> The data is current, reflecting the most recent consumer behaviors, attitudes, or market conditions. 3. <strong>Control Over Parameters:</strong> Researchers can design how, when, and where data is collected, giving them more control over the research process.</p>
+<p><strong>Limitations:</strong> 1. <strong>Time-Consuming:</strong> Gathering primary data typically takes more time than using existing data. 2. <strong>Cost-Intensive:</strong> Due to the need for specialized tools, manpower, and analysis, primary data collection can be expensive. 3. <strong>Bias Risks:</strong> Design and implementation of data collection could introduce bias, affecting the validity of results.</p>
+</section>
+<section id="secondary-data" class="level3">
+<h3 class="anchored" data-anchor-id="secondary-data">Secondary Data</h3>
+<p><strong>Definition:</strong> Secondary data is data that was collected by someone else for a different purpose and is later re-used in a new research context. Examples include industry reports, academic studies, government publications, and news articles.</p>
+<p><strong>Advantages:</strong> 1. <strong>Time-Efficient:</strong> Secondary data is readily available and thus saves time that would otherwise be needed for primary data collection. 2. <strong>Cost-Effective:</strong> There is often little to no cost associated with acquiring existing data. 3. <strong>Breadth and Depth:</strong> Secondary sources often provide comprehensive historical data, which can help in understanding trends over time.</p>
+<p><strong>Limitations:</strong> 1. <strong>Relevance:</strong> Because the data wasn’t collected with the current research objectives in mind, it might not be entirely applicable. 2. <strong>Currency:</strong> Older data might be outdated, and therefore less useful or reliable. 3. <strong>Quality and Reliability:</strong> Since the researcher didn’t control the original data collection, there could be issues with how the data was gathered, affecting its quality and reliability.</p>
+</section>
+<section id="analytical-insight" class="level3">
+<h3 class="anchored" data-anchor-id="analytical-insight">Analytical Insight</h3>
+<p>In summary, the decision to utilize primary or secondary data hinges on the research goals, budget, and timeline. Primary data offers specificity and control but comes at a higher cost in terms of time and resources. Secondary data, while convenient and cost-effective, may lack the tailored focus that primary data can offer. Often, a hybrid approach combining both types of data provides a balanced methodology, adding depth and nuance to research findings. Therefore, understanding the nuances of these two types of data is crucial for effective marketing research. [1]</p>
+</section>
+</section>
+</section>
+<section id="case-study-utilizing-primary-data-for-mcdonalds-new-vegan-burger-launch" class="level1">
+<h1>Case Study: Utilizing Primary Data for McDonald’s New Vegan Burger Launch</h1>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>McDonald’s, a global fast-food giant, wanted to launch a new vegan burger. Before making a significant investment, the company decided to gather primary data to assess market demand, consumer preferences, and pricing strategy.</p>
+</section>
+<section id="methodology" class="level2">
+<h2 class="anchored" data-anchor-id="methodology">Methodology</h2>
+<section id="target-audience" class="level3">
+<h3 class="anchored" data-anchor-id="target-audience">Target Audience</h3>
+<ul>
+<li>Fast food consumers aged 18-45</li>
+<li>Both existing McDonald’s customers and potential new customers who are interested in plant-based options</li>
+</ul>
+</section>
+<section id="data-collection-methods" class="level3">
+<h3 class="anchored" data-anchor-id="data-collection-methods">Data Collection Methods</h3>
+<ol type="1">
+<li>Online Surveys: Sent to McDonald’s mobile app users</li>
+<li>Focus Groups: Comprising 8-10 participants from various age groups and dietary preferences</li>
+<li>In-store Sampling: Offering samples in selected locations for direct feedback</li>
+</ol>
+</section>
+</section>
+<section id="sample-data" class="level2">
+<h2 class="anchored" data-anchor-id="sample-data">Sample Data</h2>
+<ul>
+<li>Survey Result: 75% of respondents were willing to try a vegan burger</li>
+<li>Focus Groups: Preference for a ‘spicy’ version of the burger</li>
+<li>In-store Sampling: 60% rated the burger as ‘Excellent,’ 25% as ‘Good,’ 15% as ‘Average’</li>
+</ul>
+</section>
+<section id="results-and-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="results-and-analysis">Results and Analysis</h2>
+<p>Based on the primary data, McDonald’s found a significant interest in the vegan burger. A strong preference emerged for a spicy version, and the taste test indicated a positive response to the prototype.</p>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>The primary data strongly supported the launch of a new spicy vegan burger, providing McDonald’s with critical insights into consumer demand, flavor preferences, and quality expectations.</p>
+<hr>
+</section>
+</section>
+<section id="case-study-leveraging-secondary-data-for-mcdonalds-expansion-into-southeast-asia" class="level1">
+<h1>Case Study: Leveraging Secondary Data for McDonald’s Expansion into Southeast Asia</h1>
+<section id="introduction-1" class="level2">
+<h2 class="anchored" data-anchor-id="introduction-1">Introduction</h2>
+<p>McDonald’s planned to expand its operations into Southeast Asia. Instead of starting from scratch, the company used secondary data to assess market potential and competitive landscape.</p>
+</section>
+<section id="methodology-1" class="level2">
+<h2 class="anchored" data-anchor-id="methodology-1">Methodology</h2>
+<section id="sources-of-secondary-data" class="level3">
+<h3 class="anchored" data-anchor-id="sources-of-secondary-data">Sources of Secondary Data</h3>
+<ol type="1">
+<li>Government Census Data: For understanding population demographics</li>
+<li>Trade and Industry Reports: To assess the fast-food market size</li>
+<li>News Articles and Case Studies: For gauging public opinion and reviewing competitor strategies</li>
+</ol>
+</section>
+</section>
+<section id="sample-data-1" class="level2">
+<h2 class="anchored" data-anchor-id="sample-data-1">Sample Data</h2>
+<ul>
+<li>Census Data: 40% of the population in the target countries are under 25 years old.</li>
+<li>Industry Reports: Fast-food market in Southeast Asia expected to grow by 8% annually</li>
+<li>News Articles: Local fast-food brands have a strong preference among consumers.</li>
+</ul>
+</section>
+<section id="results-and-analysis-1" class="level2">
+<h2 class="anchored" data-anchor-id="results-and-analysis-1">Results and Analysis</h2>
+<ul>
+<li>The demographic data suggested a youthful target audience, ideal for fast-food consumption.</li>
+<li>Industry reports indicated a growing market, but news articles and case studies pointed to strong competition from local brands.</li>
+</ul>
+</section>
+<section id="conclusion-1" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion-1">Conclusion</h2>
+<p>The secondary data provided McDonald’s with enough information to understand that while the Southeast Asian market is growing and has a demographic favorable to fast-food consumption, there’s strong competition from local brands. This suggested the need for a more localized approach in product offerings.</p>
+<hr>
+<p>Both primary and secondary data serve crucial roles in these case studies. While primary data offers direct and specific insights that are actionable, secondary data provides a broader context that aids strategic planning. Together, they form a comprehensive research approach that empowers McDonald’s to make informed business decisions.</p>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<p>[1] Malhotra, N. K., &amp; Birks, D. F. (2007). Marketing Research: An Applied Approach. Pearson Education. Burns, A. C., &amp; Bush, R. F. (2020). Basic Marketing Research. Pearson. Hair, J. F., Celsi, M., Money, A. H., Samouel, P., &amp; Page, M. J. (2015). Essentials of Business Research Methods. Routledge.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
